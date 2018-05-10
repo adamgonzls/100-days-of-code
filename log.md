@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: May 09, 2016 (Example 1)
+### Day 1: May 09, 2018
 
 **Today's Progress:** Forked the 100 days of code branch, this took much longer than it should have.
 
@@ -8,14 +8,16 @@
 
 **Helpful link:** [Syncing a fork](https://help.github.com/articles/syncing-a-fork/)
 
-### Day 2: February 30, 2016 (Example 2)
+### Day 2: May 10, 2018
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Studied Regular Expressions. (45mins)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Today I was trying to solve the FreeCodeCamp "Check for Palindromes" task and ended up spending time reviewing Regular Expressions. I've used them a few times and every time I've used them in production, I've been glad that I went that route. This time I decided I wanted to spend a little more time studying them. I will spend more time on RegexOne later.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
+[RegexOne](https://regexone.com/lesson/matching_characters?)
+[FreeCodeCamp - Check for Palinodromes](https://www.freecodecamp.org/challenges/check-for-palindromes)
 
 
 ### Day 3: June 27, Monday
