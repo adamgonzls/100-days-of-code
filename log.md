@@ -12,10 +12,11 @@
 ##### Regular Expressions and D3
 
 **Today's Progress**: 
-1. Studied Regular Expressions. (45mins)
+1. Studied Regular Expressions (45mins)
 2. D3.js (15mins)
+3. Studied Regular Expressions (47mins)
 
-**Thoughts**: Today I was trying to solve the FreeCodeCamp "Check for Palindromes" task and ended up spending time reviewing Regular Expressions. I've used them a few times and every time I've used them in production, I've been glad that I went that route. This time I decided I wanted to spend a little more time studying them. I will spend more time on RegexOne later. I finished up Learn D3.js for free today, I'll need to get more practice to really do anything with this library.
+**Thoughts**: Today I was trying to solve the FreeCodeCamp "Check for Palindromes" task and ended up spending time reviewing Regular Expressions. I've used them a few times and every time I've used them in production, I've been glad that I went that route. This time I decided I wanted to spend a little more time studying them. I will spend more time on RegexOne later. I finished up "Learn D3.js for free" today, I'll need to get more practice to really do anything with this library.
 
 **Today's links:** 
 1.[RegexOne](https://regexone.com/lesson/matching_characters?)
