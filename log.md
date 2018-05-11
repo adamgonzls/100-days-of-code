@@ -26,10 +26,11 @@
 
 ### Day 3: May 11, 2018
 
-**Today's Progress**: Words about today.
+**Today's Progress**:
+1. More Regular Expressions (35mins)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
+I went through more exercises about regular expressions, now know more about what all the different special characters mean: \d means any digit, . (period) means any character, \w means any alphanumeric character and ? means an optional character.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Today's Links:**
+1. [RegExOne](https://regexone.com/lesson/misc_meta_characters?)
