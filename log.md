@@ -41,10 +41,22 @@ I went through more exercises about regular expressions, now know more about wha
 **Today's Progress**:
 1. Regular Expressions (20mins)
 2. FreeCodeCamp (40mins)
+3. CSS Grid (20mins)
 
 **Thoughts** 
-A few more exercises on Regular Expressions. Finished a few more algorithm problems on FreeCodeCamp. Will do some CSS Grid later.
+A few more exercises on Regular Expressions. Finished a few more algorithm problems on FreeCodeCamp. Got a little time doing some CSS grid. I'll try to apply it to a real project tomorrow.
 
 **Today's Links:**
 1. [RegExOne](https://regexone.com/problem/matching_decimal_numbers)
 2. [Scrimba - Learn CSS Grid for Free] (https://scrimba.com/g/gR8PTE)
+
+### Day 5: May 13, 2018
+
+**Today's Progress**:
+1. CSS Grid (20mins)
+
+**Thoughts** 
+Words
+
+**Today's Links:**
+1. [Scrimba - Learn CSS Grid for Free] (https://scrimba.com/g/gR8PTE)
