@@ -48,7 +48,7 @@ A few more exercises on Regular Expressions. Finished a few more algorithm probl
 
 **Today's Links:**
 1. [RegExOne](https://regexone.com/problem/matching_decimal_numbers)
-2. [Scrimba - Learn CSS Grid for Free] (https://scrimba.com/g/gR8PTE)
+2. [Scrimba - Learn CSS Grid for Free](https://scrimba.com/g/gR8PTE)
 
 # Day 5: May 13, 2018
 
@@ -68,5 +68,15 @@ Finished the Grid tutorial, I found the [An Awesome Image Grid](https://scrimba.
 6. ```grid-area: row-start / column-start / row-end / column-end; <!--(this is short-hand for #5 and #6 above, not my favorite syntax ATM)-->```
 
 **Today's Links:**
-1. [Scrimba - Learn CSS Grid for Free] (https://scrimba.com/g/gR8PTE)
-2. [CSS Grid Layout-crossed sections] (https://medium.com/deemaze-software/css-grid-layout-crossed-sections-fca9e956e725)
+1. [Scrimba - Learn CSS Grid for Free](https://scrimba.com/g/gR8PTE)
+2. [CSS Grid Layout-crossed sections](https://medium.com/deemaze-software/css-grid-layout-crossed-sections-fca9e956e725)
+
+# Day 6: May 14, 2018
+
+**Today's Progress**:
+1. Basic Algorithm (55mins)
+
+**Thoughts** 
+Spent time working on basica algorithms to search through arrays. Will most likely work on CSS Grid later.
+
+**Today's Links:**
