@@ -65,8 +65,8 @@ Finished the Grid tutorial, I found the [An Awesome Image Grid](https://scrimba.
 3. `grid-template-rows: repeat(3, minmax(100px, max-content));`
 4. `grid-column: column-start / column-end;`
 5. `grid-row: row-start / row-end;`
-6. ```grid-area: row-start / column-start / row-end / column-end; /*(this is short-hand for #5 and #6 above, not my favorite syntax ATM)*/```
+6. ```grid-area: row-start / column-start / row-end / column-end; <!--(this is short-hand for #5 and #6 above, not my favorite syntax ATM)-->```
 
 **Today's Links:**
 1. [Scrimba - Learn CSS Grid for Free] (https://scrimba.com/g/gR8PTE)
-2. [CSS Grid Layout-crossed sections]https://medium.com/deemaze-software/css-grid-layout-crossed-sections-fca9e956e725
+2. [CSS Grid Layout-crossed sections] (https://medium.com/deemaze-software/css-grid-layout-crossed-sections-fca9e956e725)
