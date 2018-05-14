@@ -54,9 +54,10 @@ A few more exercises on Regular Expressions. Finished a few more algorithm probl
 
 **Today's Progress**:
 1. CSS Grid (20mins)
+2. CSS Grid (55mins)
 
 **Thoughts** 
-Words
+Finished the Grid tutorial, I found the [An Awesome Image Grid](https://scrimba.com/p/pWqLHa/cBq3PsP) lesson as one of the most interesting. I think I might try it on a production site. There are so many new properties and values for CSS Grid.
 
 **Today's Links:**
 1. [Scrimba - Learn CSS Grid for Free] (https://scrimba.com/g/gR8PTE)
