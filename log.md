@@ -60,12 +60,12 @@ A few more exercises on Regular Expressions. Finished a few more algorithm probl
 **Thoughts** 
 Finished the Grid tutorial, I found the [An Awesome Image Grid](https://scrimba.com/p/pWqLHa/cBq3PsP) lesson as one of the most interesting. I think I might try it on a production site. There are so many new properties and values for CSS Grid. Spent some more time playing with a layout using CSS grid.
 ## Grid Properties and Values Examples ##
-1. display: grid;
-2. grid-template-columns: repeat(4, 1fr);
-3. grid-template-rows: repeat(3, minmax(100px, max-content));
-4. grid-column: column-start / column-end;
-5. grid-row: row-start / row-end;
-6. grid-area: row-start / column-start / row-end / column-end; [//]: # (this is short-hand for #5 and #6 above, not my favorite syntax ATM)
+1. `display: grid;`
+2. `grid-template-columns: repeat(4, 1fr);`
+3. `grid-template-rows: repeat(3, minmax(100px, max-content));`
+4. `grid-column: column-start / column-end;`
+5. `grid-row: row-start / row-end;`
+6. ```grid-area: row-start / column-start / row-end / column-end; /*(this is short-hand for #5 and #6 above, not my favorite syntax ATM)*/```
 
 **Today's Links:**
 1. [Scrimba - Learn CSS Grid for Free] (https://scrimba.com/g/gR8PTE)
