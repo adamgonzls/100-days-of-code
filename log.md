@@ -50,14 +50,23 @@ A few more exercises on Regular Expressions. Finished a few more algorithm probl
 1. [RegExOne](https://regexone.com/problem/matching_decimal_numbers)
 2. [Scrimba - Learn CSS Grid for Free] (https://scrimba.com/g/gR8PTE)
 
-### Day 5: May 13, 2018
+# Day 5: May 13, 2018
 
 **Today's Progress**:
 1. CSS Grid (20mins)
 2. CSS Grid (55mins)
+3. CSS Grid (25mins)
 
 **Thoughts** 
-Finished the Grid tutorial, I found the [An Awesome Image Grid](https://scrimba.com/p/pWqLHa/cBq3PsP) lesson as one of the most interesting. I think I might try it on a production site. There are so many new properties and values for CSS Grid.
+Finished the Grid tutorial, I found the [An Awesome Image Grid](https://scrimba.com/p/pWqLHa/cBq3PsP) lesson as one of the most interesting. I think I might try it on a production site. There are so many new properties and values for CSS Grid. Spent some more time playing with a layout using CSS grid.
+## Grid Properties and Values Examples ##
+1. display: grid;
+2. grid-template-columns: repeat(4, 1fr);
+3. grid-template-rows: repeat(3, minmax(100px, max-content));
+4. grid-column: column-start / column-end;
+5. grid-row: row-start / row-end;
+6. grid-area: row-start / column-start / row-end / column-end; [//]: # (this is short-hand for #5 and #6 above, not my favorite syntax ATM)
 
 **Today's Links:**
 1. [Scrimba - Learn CSS Grid for Free] (https://scrimba.com/g/gR8PTE)
+2. [CSS Grid Layout-crossed sections]https://medium.com/deemaze-software/css-grid-layout-crossed-sections-fca9e956e725
