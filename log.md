@@ -75,8 +75,22 @@ Finished the Grid tutorial, I found the [An Awesome Image Grid](https://scrimba.
 
 **Today's Progress**:
 1. Basic Algorithm (55mins)
+2. CSS Grid (70mins)
 
 **Thoughts** 
-Spent time working on basica algorithms to search through arrays. Will most likely work on CSS Grid later.
+Spent time working on basica algorithms to search through arrays. Will most likely work on CSS Grid later. Started doing Wes Bos' course on CSS Grid. I think I can finish this one in a day or two. How in the world is tomorrow Day 7 of this challenge? It's gone by so quickly.
 
 **Today's Links:**
+1. [CSS Grid.](https://cssgrid.io/)
+
+# Day 7: May 15, 2018
+
+**Today's Progress**:
+1. Basic Algorithm (55mins)
+2. CSS Grid (70mins)
+
+**Thoughts** 
+Spent time working on basica algorithms to search through arrays. Will most likely work on CSS Grid later. Started doing Wes Bos' course on CSS Grid. I think I can finish this one in a day or two. 
+
+**Today's Links:**
+1. [CSS Grid.](https://cssgrid.io/)
