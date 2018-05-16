@@ -86,11 +86,11 @@ Spent time working on basica algorithms to search through arrays. Will most like
 # Day 7: May 15, 2018
 
 **Today's Progress**:
-1. Basic Algorithm (55mins)
-2. CSS Grid (70mins)
+1. CSS Grid (30mins)
 
 **Thoughts** 
-Spent time working on basica algorithms to search through arrays. Will most likely work on CSS Grid later. Started doing Wes Bos' course on CSS Grid. I think I can finish this one in a day or two. 
+Watched more of Wes Bos' course on CSS Grid. I'm at lesson 11 of 25, I should have this finished by Sunday. Today at the office I was busy with HTML emails, adding a few products to the site, and a emergency CSS fix.
 
 **Today's Links:**
 1. [CSS Grid.](https://cssgrid.io/)
+
