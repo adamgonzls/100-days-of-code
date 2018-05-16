@@ -94,3 +94,14 @@ Watched more of Wes Bos' course on CSS Grid. I'm at lesson 11 of 25, I should ha
 **Today's Links:**
 1. [CSS Grid.](https://cssgrid.io/)
 
+# Day 7: May 16, 2018
+
+**Today's Progress**:
+1. Basic Algorithm (35mins)
+
+**Thoughts** 
+Worked on some algorithms on FreeCodeCamp during lunch. I used the substr method to resolve the issue. I was making this one too complicated for myself as I thought I had to return the matched string instead of returning true or false.
+
+**Today's Links:**
+1. [Confirm the Ending](https://www.freecodecamp.org/challenges/confirm-the-ending)
+2. [MDN - substr()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substr)
