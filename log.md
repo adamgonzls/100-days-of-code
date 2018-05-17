@@ -94,13 +94,27 @@ Watched more of Wes Bos' course on CSS Grid. I'm at lesson 11 of 25, I should ha
 **Today's Links:**
 1. [CSS Grid.](https://cssgrid.io/)
 
-# Day 7: May 16, 2018
+# Day 8: May 16, 2018
 
 **Today's Progress**:
 1. Basic Algorithm (35mins)
+2. CSS Grid (70mins)
+3. Basic Algorithm (15mins)
 
 **Thoughts** 
-Worked on some algorithms on FreeCodeCamp during lunch. I used the substr method to resolve the issue. I was making this one too complicated for myself as I thought I had to return the matched string instead of returning true or false.
+Worked on some algorithms on FreeCodeCamp during lunch. I used the substr method to resolve the issue. I was making this one too complicated for myself as I thought I had to return the matched string instead of returning true or false. I worked on the CSS Grid course some more and I solved Wes Bos' "grid cardio" exercises. I was pretty proud of that. I also solved an algorithm challenge using an ES6 method.
+
+**Today's Links:**
+1. [Confirm the Ending](https://www.freecodecamp.org/challenges/confirm-the-ending)
+2. [MDN - substr()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substr)
+
+# Day 9: May 17, 2018
+
+**Today's Progress**:
+1. CSS Grid (60mins)
+
+**Thoughts** 
+Put the first CSS grid element on the work website today. It's the first step in using CSS grid more regularly. I also started creating some BEM components on the website as well. I hope this will allow other people to move things around without breaking my design. 
 
 **Today's Links:**
 1. [Confirm the Ending](https://www.freecodecamp.org/challenges/confirm-the-ending)
