@@ -112,10 +112,13 @@ Worked on some algorithms on FreeCodeCamp during lunch. I used the substr method
 
 **Today's Progress**:
 1. CSS Grid (60mins)
+2. Basic Algorithms (40mins)
+3. CSS Grid (35mins)
 
 **Thoughts** 
-Put the first CSS grid element on the work website today. It's the first step in using CSS grid more regularly. I also started creating some BEM components on the website as well. I hope this will allow other people to move things around without breaking my design. 
+Put the first CSS grid element on the work website today. It's the first step in using CSS grid more regularly. I also started creating some BEM components on the website as well. I hope this will allow other people to move things around without breaking my design. I solved another algorithm today. Today's exercise was to truncate a string (first argument) if the string was longer than the second argument. Also, if the 2nd argument was less than a certain amount append "..." to the string otherwise, append "..." but subtract the characters that would occupy "..." from the string. I also made progress on Wes Bos' CSS Grid course.
 
 **Today's Links:**
 1. [Confirm the Ending](https://www.freecodecamp.org/challenges/confirm-the-ending)
 2. [MDN - substr()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substr)
+3. [CSS Grid.](https://cssgrid.io/)
