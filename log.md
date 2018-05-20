@@ -122,3 +122,14 @@ Put the first CSS grid element on the work website today. It's the first step in
 1. [Confirm the Ending](https://www.freecodecamp.org/challenges/confirm-the-ending)
 2. [MDN - substr()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substr)
 3. [CSS Grid.](https://cssgrid.io/)
+
+# Day 10: May 19, 2018
+
+**Today's Progress**:
+1. CSS Grid (40mins)
+
+**Thoughts** 
+Worked on CSS Grid some more today. The property `grid-auto-flow` with value `dense` can be used to help fill the gaps automatically if the grid has different sized elements within it.
+
+**Today's Links:**
+1. [CSS Grid.](https://cssgrid.io/)
