@@ -150,3 +150,16 @@ I also did one basic JavaScript algorithm. I used .push() as well as .slice() to
 
 **Today's Links:**
 1. [CSS Grid.](https://cssgrid.io/)
+
+# Day 12: May 21, 2018
+
+**Today's Progress**:
+1. Basic Algorithms (5mins)
+2. CSS Grid (60mins)
+
+**Thoughts** 
+Solved today's algorithm super quick. Basically, I had to return an array after removing x amount of items from the beginning. I used .splice() on this exercise.
+Later, I did more of the CSS grid course, this time re-creating the codepen layout. That exercise took longer than expected and was the most complex css grid layout I've done yet. Tomorrow, I will learn more about css variables in [Learn CSS Variables for free](https://scrimba.com/g/gcssvariables)
+
+**Today's Links:**
+1. [CSS Grid.](https://cssgrid.io/)
