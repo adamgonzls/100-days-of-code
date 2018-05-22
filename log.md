@@ -141,10 +141,12 @@ Worked on CSS Grid some more today. The property `grid-auto-flow` with value `de
 2. Basic Algorithms (15mins)
 
 **Thoughts** 
-In the CSS grid exercise today, I created an image gallery. In this lesson I was able to use `display: grid` on both the grid container was well as the chilren `.item`. This was used to make it easier to get the image to fill up the entire container as well as the overlay. I think the transition I used on the overlay in this example could meet my needs for the customer service / tech support form on the production website. 
-```transition: 0.2s;
-transform: translateY(100%);```
-I also did one basic JavaScript algorithm. I used .push() as well as .slice() although, I found another method that seemed simpler that used .splice().
+In the CSS grid exercise today, I created an image gallery. In this lesson I was able to use `display: grid` on both the grid container was well as the children `.item`. This was used to make it easier to get the image to fill up the entire container as well as the overlay. I think the transition I used on the overlay in this example could meet my needs for the customer service / tech support form on the production website. 
+```
+transition: 0.2s;
+transform: translateY(100%);
+```
+I also did one basic JavaScript algorithm. I used .push() as well as .slice() to resolve it although, I found another method that seemed simpler that used only .splice().
 
 **Today's Links:**
 1. [CSS Grid.](https://cssgrid.io/)
