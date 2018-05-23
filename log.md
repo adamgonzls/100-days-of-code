@@ -163,3 +163,14 @@ Later, I did more of the CSS grid course, this time re-creating the codepen layo
 
 **Today's Links:**
 1. [CSS Grid.](https://cssgrid.io/)
+
+# Day 13: May 22, 2018
+
+**Today's Progress**:
+1. CSS Grid (90mins)
+
+**Thoughts** 
+Today, I did the 2nd to last lesson in Wes Bos' CSS grid course. After completing the work, I noticed that the "responsive" part of the grid wasn't working properly. After messing around and resorting to copying the HTML and CSS from the source files, it still wasn't working properly. I finally decided to turn off the "Overlay Grid" in Firefox and the behavior stopped.
+
+**Today's Links:**
+1. [CSS Grid.](https://cssgrid.io/)
