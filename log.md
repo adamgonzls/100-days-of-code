@@ -174,3 +174,17 @@ Today, I did the 2nd to last lesson in Wes Bos' CSS grid course. After completin
 
 **Today's Links:**
 1. [CSS Grid.](https://cssgrid.io/)
+
+# Day 13: May 23, 2018
+
+**Today's Progress**:
+1. CSS Grid (50mins)
+
+**Thoughts** 
+Finished the CSS Grid course and then started another course that talks about new features in CSS in general *variables*, for example. I also found another JavaScript course in my email. It seems pretty short so I'm going to knock it out too. It's an intro so everything should be super quick. Then, I'm going to go through the intro to ES6. Again, I can knock these out real quick. Lastly, I found this article that showcased some cool web developer portfolios. I'll have to take a look and see how mine measures up.
+
+**Today's Links:**
+1. [CSS Grid.](https://cssgrid.io/)
+2. [Introduction to JavaScript](https://scrimba.com/g/gintrotojavascript)
+3. [Introduction to ES6+](https://scrimba.com/g/gintrotoes6)
+4. [10 Awesome Web Developer Portfolios](https://codeburst.io/10-awesome-web-developer-portfolios-d266b32e6154)
