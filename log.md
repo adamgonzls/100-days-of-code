@@ -188,3 +188,21 @@ Finished the CSS Grid course and then started another course that talks about ne
 2. [Introduction to JavaScript](https://scrimba.com/g/gintrotojavascript)
 3. [Introduction to ES6+](https://scrimba.com/g/gintrotoes6)
 4. [10 Awesome Web Developer Portfolios](https://codeburst.io/10-awesome-web-developer-portfolios-d266b32e6154)
+
+# Day 14: May 24, 2018
+
+**Today's Progress**:
+1. JavaScript (20mins)
+
+**Thoughts** 
+Started the ES6 intro. Got reaquainted with string interpolation.
+```
+let firstName = "adam";
+let lastName = "gonz";
+console.log(`${firstName} ${lastName}`);
+// adam gonz
+```
+I think this intro will be a good refresher. I'm at 5 out of 24 lessons.
+
+**Today's Links:**
+1. [Introduction to ES6+](https://scrimba.com/g/gintrotoes6)
