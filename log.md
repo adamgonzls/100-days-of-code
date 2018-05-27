@@ -175,7 +175,7 @@ Today, I did the 2nd to last lesson in Wes Bos' CSS grid course. After completin
 **Today's Links:**
 1. [CSS Grid](https://cssgrid.io/)
 
-# Day 13: May 23, 2018
+# Day 14: May 23, 2018
 
 **Today's Progress**:
 1. CSS Grid (50mins)
@@ -189,7 +189,7 @@ Finished the CSS Grid course and then started another course that talks about ne
 3. [Introduction to ES6+](https://scrimba.com/g/gintrotoes6)
 4. [10 Awesome Web Developer Portfolios](https://codeburst.io/10-awesome-web-developer-portfolios-d266b32e6154)
 
-# Day 14: May 24, 2018
+# Day 15: May 24, 2018
 
 **Today's Progress**:
 1. JavaScript (20mins)
@@ -205,4 +205,27 @@ console.log(`${firstName} ${lastName}`);
 I think this intro will be a good refresher. I'm at 5 out of 24 lessons.
 
 **Today's Links:**
-1. [Introduction to ES6+](https://scrimba.com/g/gintrotoes6)
+1. [Introduction to JavaScript](https://scrimba.com/g/gintrotojavascript)
+
+# Day 16: May 25, 2018
+
+**Today's Progress**:
+1. JavaScript (30mins)
+
+**Thoughts** 
+Continued to work on the Introduction to JavaScript. Lots of what is being taught in this course are things I'm already familiar with in JS. Going to finish this course for the commitment and it's a good refresher.
+
+**Today's Links:**
+1. [Introduction to JavaScript](https://scrimba.com/g/gintrotojavascript)
+
+# Day 17: May 26, 2018
+
+**Today's Progress**:
+1. JavaScript (60mins)
+
+**Thoughts** 
+Finished the Intro to JavaScript today. It was a good and brief refresher. Now, on to the Introduction to ES6+. 
+
+**Today's Links:**
+1. [Introduction to JavaScript](https://scrimba.com/g/gintrotojavascript)
+2. [Introduction to ES6+](https://scrimba.com/g/gintrotoes6)
