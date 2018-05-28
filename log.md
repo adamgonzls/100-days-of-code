@@ -229,3 +229,31 @@ Finished the Intro to JavaScript today. It was a good and brief refresher. Now, 
 **Today's Links:**
 1. [Introduction to JavaScript](https://scrimba.com/g/gintrotojavascript)
 2. [Introduction to ES6+](https://scrimba.com/g/gintrotoes6)
+
+# Day 18: May 27, 2018
+
+**Today's Progress**:
+1. JavaScript (40mins)
+
+**Thoughts** 
+Working on the Intro to ES6, I used template literals. Among other things, template literals allow you to format text as it appears in your code so you don't have to concatenate variables (`word + ' ' + word2`).
+`` `const fullName = `${word1} ${word2}`; template literals` ``
+I also learned about destructuring. In the example below, I was able to rename the firstName and lastName properties and then write them to the console using template literals.
+```
+const personalInformation = {
+  firstName: 'Adam',
+  lastName: 'Gonz',
+  city: 'Chandler',
+  state: 'AZ',
+  zipcode: 85225
+};
+
+const {firstName: fn, lastName: ln} = personalInformation;
+
+console.log(`${fn} ${ln}`);
+```
+
+
+**Today's Links:**
+1. [Introduction to JavaScript](https://scrimba.com/g/gintrotojavascript)
+2. [Introduction to ES6+](https://scrimba.com/g/gintrotoes6)
