@@ -263,11 +263,56 @@ console.log(`${fn} ${ln}`);
 
 **Today's Progress**:
 1. MySQL (30mins)
+2. JavaScript (110mins)
 
 **Thoughts** 
 This afternoon I was trying to work on my local WordPress environment and I was getting `error establishing a database connection`. I started looking around and I figured out that my MySQL password on my localhost expired by adding a file to the WordPress root folder. I reset the password and set the user to never expire the password again. Local environment is working again.
+
+I spent some time working on JS algorithms. I need to think about what is the  simplest answer. I came close to getting the answers but both times, I wrote the code the hard way. For example, I could have tested for -1 and returned false on my main test but instead I tested for >= 0 and returned true which got me into 'when something is true, and I continue, how do I return true without exiting that iteration completely. If I had just returned false if the first test failed, returning true would have been 1 line of code after the false checks. I did use some string interpolation in my console.logs 😀
+
+Continuing with the `Introduction to ES6`, I learned about the for of loop:
+```javascript
+// iterate through string
+let fullName = "Dylan Coding God of Israel";
+for (const char of fullName) {
+  console.log(char)
+}
+
+// iterate through array
+let money = [10, 20, 30]
+let total = 0;
+
+for (const amt of money) {
+  total += amt;
+}
+console.log(total);
+```
+I also used the spread operator `...` and the rest operator, which looks just like the spread operator.
+Lastly, I touched on arrow functions which, I will use a ton of, I'm sure:
+```javascript
+// arrow functions allow you to reduce the amount of code (the functions below are the same function)
+// Pre-ES6:
+function add(...nums) {
+  let total = nums.reduce(function (x, y) {
+    return x + y;
+  })
+  console.log(total);
+}
+// ES6:
+function add(...nums) {
+  let total = nums.reduce((x, y) =>  x + y);
+  console.log(total);
+}
+
+add(4, 5, 7, 8, 12);
+
+```
+Stopped on lesson 12.
 
 **Today's Links:**
 1. [Checking Database Username and Password](https://www.wpkube.com/how-to-fix-error-establishing-database-connection-in-wordpress/)
 2. [Reset MySQL](https://stackoverflow.com/questions/33467337/reset-mysql-root-password-using-alter-user-statement-after-install-on-mac)
 3. [Password Management](https://dev.mysql.com/doc/refman/5.7/en/password-management.html)
+4. [Introduction to ES6+](https://scrimba.com/g/gintrotoes6)
+5. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+6. [Creating and highlighting code blocks](https://help.github.com/articles/creating-and-highlighting-code-blocks/)
