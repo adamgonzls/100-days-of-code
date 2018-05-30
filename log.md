@@ -258,3 +258,16 @@ console.log(`${fn} ${ln}`);
 
 **Today's Links:**
 1. [Introduction to ES6+](https://scrimba.com/g/gintrotoes6)
+
+# Day 19: May 29, 2018
+
+**Today's Progress**:
+1. MySQL (30mins)
+
+**Thoughts** 
+This afternoon I was trying to work on my local WordPress environment and I was getting `error establishing a database connection`. I started looking around and I figured out that my MySQL password on my localhost expired by adding a file to the WordPress root folder. I reset the password and set the user to never expire the password again. Local environment is working again.
+
+**Today's Links:**
+1. [Checking Database Username and Password](https://www.wpkube.com/how-to-fix-error-establishing-database-connection-in-wordpress/)
+2. [Reset MySQL](https://stackoverflow.com/questions/33467337/reset-mysql-root-password-using-alter-user-statement-after-install-on-mac)
+3. [Password Management](https://dev.mysql.com/doc/refman/5.7/en/password-management.html)
