@@ -311,8 +311,19 @@ Stopped on lesson 12.
 
 **Today's Links:**
 1. [Checking Database Username and Password](https://www.wpkube.com/how-to-fix-error-establishing-database-connection-in-wordpress/)
-2. [Reset MySQL](https://stackoverflow.com/questions/33467337/reset-mysql-root-password-using-alter-user-statement-after-install-on-mac)
+2. [Reset MySQL Password](https://stackoverflow.com/questions/33467337/reset-mysql-root-password-using-alter-user-statement-after-install-on-mac)
 3. [Password Management](https://dev.mysql.com/doc/refman/5.7/en/password-management.html)
 4. [Introduction to ES6+](https://scrimba.com/g/gintrotoes6)
 5. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 6. [Creating and highlighting code blocks](https://help.github.com/articles/creating-and-highlighting-code-blocks/)
+
+# Day 20: May 30, 2018
+
+**Today's Progress**:
+1. JavaScript (40mins)
+
+**Thoughts** 
+Further work on the Intro to ES6+. Covered `let` and `const` also worked on Import & Export as well as Classes.
+
+**Today's Links:**
+1. [Introduction to ES6+](https://scrimba.com/g/gintrotoes6)
