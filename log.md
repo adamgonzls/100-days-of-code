@@ -332,7 +332,7 @@ Further work on the Intro to ES6+. Covered `let` and `const` also worked on Impo
 
 **Today's Progress**:
 1. JavaScript (15mins)
-2. Git (15mins)
+2. Git (30mins)
 
 **Thoughts** 
 Finished the Intro to ES6+. Lessons covered trailing commas which basically will prevent you from getting an error where previously you would get an error if you had a comma (like after the last property of an object), also did some async/await and sets.
