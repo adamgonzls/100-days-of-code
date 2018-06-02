@@ -346,9 +346,12 @@ I started reading through Shopify's guide "A Beginner's Git Guide with Shopify".
 
 **Today's Progress**:
 1. Git (30mins)
+2. CSS Grid (90mins)
 
 **Thoughts** 
 Finished the 3rd of 3 posts from the Beginner's Git Guide. Feel pretty good as I'm comfortable with most of the concepts covered in the posts.
+I just finished a CSS Grid course. I appreciate the effort but the teacher was using inches as his values for the grid column width and oother things where that isn't used. I finished the screencast though so I can move on to other things tomorrow.
 
 **Today's Links:**
 1. [A Beginner's Git Guide with Shopify](https://www.shopify.com/partners/blog/git-guide)
+2. [How to Build a Beautiful Blog](https://scrimba.com/g/gbuildablog)
