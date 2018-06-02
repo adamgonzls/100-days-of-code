@@ -341,3 +341,14 @@ I started reading through Shopify's guide "A Beginner's Git Guide with Shopify".
 **Today's Links:**
 1. [Introduction to ES6+](https://scrimba.com/g/gintrotoes6)
 2. [A Beginner's Git Guide with Shopify](https://www.shopify.com/partners/blog/git-guide)
+
+# Day 22: June 1, 2018
+
+**Today's Progress**:
+1. Git (30mins)
+
+**Thoughts** 
+Finished the 3rd of 3 posts from the Beginner's Git Guide. Feel pretty good as I'm comfortable with most of the concepts covered in the posts.
+
+**Today's Links:**
+1. [A Beginner's Git Guide with Shopify](https://www.shopify.com/partners/blog/git-guide)
