@@ -402,6 +402,8 @@ console.log(itemName, category, sku, inventory);
 const team = ['Wes', 'Harry', 'Sarah', 'Keegan', 'Riker'];
 const [captain, assistant, ...players] = team; // the ... is the rest operator
 ```
+I also read an article on how to deal with browsers that don't support grid. In this article they suggest using floats, `display:table-cell`, and feature queries. This is interesting and I may need to start testing these methods out.
 **Today's Links:**
 1. [ES6 for Everyone](https://es6.io/)
+2. [Using CSS Grid: Supporting Browsers Without Grid](https://www.smashingmagazine.com/2017/11/css-grid-supporting-browsers-without-grid/)
 
