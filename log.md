@@ -406,4 +406,5 @@ I also read an article on how to deal with browsers that don't support grid. In 
 **Today's Links:**
 1. [ES6 for Everyone](https://es6.io/)
 2. [Using CSS Grid: Supporting Browsers Without Grid](https://www.smashingmagazine.com/2017/11/css-grid-supporting-browsers-without-grid/)
+3. [How to Make a Chart Using AJAX & REST API's](https://blog.zingchart.com/2017/11/16/how-to-make-a-chart-using-ajax-rest-apis/)
 
