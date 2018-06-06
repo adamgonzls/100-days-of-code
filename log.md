@@ -355,3 +355,53 @@ I just finished a CSS Grid course. I appreciate the effort but the teacher was u
 **Today's Links:**
 1. [A Beginner's Git Guide with Shopify](https://www.shopify.com/partners/blog/git-guide)
 2. [How to Build a Beautiful Blog](https://scrimba.com/g/gbuildablog)
+
+# Day 23: June 5, 2018
+
+**Today's Progress**:
+1. ES6 (60mins)
+
+**Thoughts** 
+Got back into ES6 for Everyone. The first lesson where I left off was on destructuring objects. This allows you to access nested data easier.
+```javascript
+//destructuring an object
+const wes = {
+  first: 'Wes',
+  last: 'Bos',
+  links: {
+    social: {
+      twitter: 'https://twitter.com/wesbos',
+      facebook: 'https://facebook.com/wesbos.developer',
+    },
+    web: {
+      blog: 'https://wesbos.com'
+    }
+  }
+}
+
+const twitter = wes.links.social.twitter // old way
+const facebook = wes.links.social.facebook // old way again
+
+const { twitter, facebook:fb } = wes.links.social; // renamed facebook to 'fb'
+console.log(fb);
+console.log(twitter);
+```
+You can also destructure arrays:
+```javascript
+// destructuring arrays
+const details = ['Wes Bos', 123, 'wesbos.com'];
+// const name = details[0]; old way
+// const id   = details[1]; old way
+const [name, id, website] = details; // when destructuring an array, you use square brackets
+console.log(name, id, website);
+
+const data = 'Basketball,Sports,90210,23,wes,bos,cool';
+const [itemName, category, sku, inventory] = data.split(',') // split and destructure
+console.log(itemName, category, sku, inventory);
+
+const team = ['Wes', 'Harry', 'Sarah', 'Keegan', 'Riker'];
+const [captain, assistant, ...players] = team; // the ... is the rest operator
+```
+**Today's Links:**
+1. [ES6 for Everyone](https://es6.io/)
+
