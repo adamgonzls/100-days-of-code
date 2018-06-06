@@ -408,3 +408,14 @@ I also read an article on how to deal with browsers that don't support grid. In 
 2. [Using CSS Grid: Supporting Browsers Without Grid](https://www.smashingmagazine.com/2017/11/css-grid-supporting-browsers-without-grid/)
 3. [How to Make a Chart Using AJAX & REST API's](https://blog.zingchart.com/2017/11/16/how-to-make-a-chart-using-ajax-rest-apis/)
 
+# Day 24: June 6, 2018
+
+**Today's Progress**:
+1. CSS Article (15mins)
+
+**Thoughts** 
+Article about linting HTML using CSS was an interesting way of adding visual cues to validate CSS. One of the commenters added that build tools could be used for this purpose too, I'll probably investigate both solutions.
+
+**Today's Links:**
+1. [Linting HTML using CSS](https://bitsofco.de/linting-html-using-css/)
+2. [ES6 for Everyone](https://es6.io/)
