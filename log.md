@@ -412,9 +412,22 @@ I also read an article on how to deal with browsers that don't support grid. In 
 
 **Today's Progress**:
 1. CSS Article (15mins)
+2. ES6 (40mins)
 
 **Thoughts** 
-Article about linting HTML using CSS was an interesting way of adding visual cues to validate CSS. One of the commenters added that build tools could be used for this purpose too, I'll probably investigate both solutions.
+Article about linting HTML using CSS was an interesting way of adding visual cues to validate CSS. One of the commenters added that build tools could be used for this purpose too, I'll probably investigate both solutions. Did some more lessons from ES6 for Everyone. I have surpassed how far I got in my previous attempts on this course.
+
+**Today's Links:**
+1. [Linting HTML using CSS](https://bitsofco.de/linting-html-using-css/)
+2. [ES6 for Everyone](https://es6.io/)
+
+# Day 25: June 8, 2018
+
+**Today's Progress**:
+1. freeCodeCamp (40mins)
+
+**Thoughts** 
+The freeCodeCamp curriculum changed in the last few days. So I've decided to work my way back to where I was when I was solving the JS algorithm problems. I'm working my way through "Applied Visual Design". I'm excited about the next chapter, "Applied Accessibility". I'm hoping I'll learn some things there I can start applying immediately.
 
 **Today's Links:**
 1. [Linting HTML using CSS](https://bitsofco.de/linting-html-using-css/)
