@@ -429,6 +429,21 @@ Article about linting HTML using CSS was an interesting way of adding visual cue
 **Thoughts** 
 The freeCodeCamp curriculum changed in the last few days. So I've decided to work my way back to where I was when I was solving the JS algorithm problems. I'm working my way through "Applied Visual Design". I'm excited about the next chapter, "Applied Accessibility". I'm hoping I'll learn some things there I can start applying immediately.
 
+# Day 26: June 9, 2018
+
+**Today's Progress**:
+1. freeCodeCamp (30mins)
+
+**Thoughts** 
+Working through the applied Visual Design tasks. I had the opportunity to bump-up my understanding of `HSL()`. 
+>If you picture a spectrum of colors starting with red on the left, moving through green in the middle, and blue on right, the hue is where a color fits along this line. 
+
+>In hsl() Saturation is the amount of gray in a color. A fully saturated color has no gray in it, and a minimally saturated color is almost completely gray. This is given as a percentage with 100% being fully saturated.
+
+>Lightness is the amount of white or black in a color. A percentage is given ranging from 0% (black) to 100% (white), where 50% is the normal color.
+red hsl(0, 100%, 50%), green  hsl(120, 100%, 50%), blue hsl(240, 100%, 50%)
+
+>Mixing white with a pure hue creates a tint of that color, and adding black will make a shade. Alternatively, a tone is produced by adding gray or by both tinting and shading. Recall that the 's' and 'l' of hsl() stand for saturation and lightness, respectively. The saturation percent changes the amount of gray and the lightness percent determines how much white or black is in the color. This is useful when you have a base hue you like, but need different variations of it.
+
 **Today's Links:**
-1. [Linting HTML using CSS](https://bitsofco.de/linting-html-using-css/)
-2. [ES6 for Everyone](https://es6.io/)
+1. [ES6 for Everyone](https://es6.io/)
