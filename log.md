@@ -445,5 +445,22 @@ red hsl(0, 100%, 50%), green  hsl(120, 100%, 50%), blue hsl(240, 100%, 50%)
 
 >Mixing white with a pure hue creates a tint of that color, and adding black will make a shade. Alternatively, a tone is produced by adding gray or by both tinting and shading. Recall that the 's' and 'l' of hsl() stand for saturation and lightness, respectively. The saturation percent changes the amount of gray and the lightness percent determines how much white or black is in the color. This is useful when you have a base hue you like, but need different variations of it.
 
+Another good lesson today was on CSS @keyframes and animations. I've done these before but I've had trouble making sense of them. This lesson made me feel silly because it taught how to use the animation properties and the @keyframes rule and how simple it is to use. Maybe when I start applying more complex animations, it'll seem like the more challenging task I remember.
+```css
+#anim {
+  animation-name: colorful;
+  animation-duration: 3s;
+}
+@keyframes colorful {
+  0% {
+    background-color: blue;
+  }
+  100% {
+    background-color: yellow;
+  }
+}
+```
+
+
 **Today's Links:**
 1. [ES6 for Everyone](https://es6.io/)
