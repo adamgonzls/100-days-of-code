@@ -433,6 +433,7 @@ The freeCodeCamp curriculum changed in the last few days. So I've decided to wor
 
 **Today's Progress**:
 1. freeCodeCamp (30mins)
+2. freeCodeCamp (35mins)
 
 **Thoughts** 
 Working through the applied Visual Design tasks. I had the opportunity to bump-up my understanding of `HSL()`. 
@@ -464,3 +465,23 @@ Another good lesson today was on CSS @keyframes and animations. I've done these 
 
 **Today's Links:**
 1. [ES6 for Everyone](https://es6.io/)
+
+# Day 27: June 10, 2018
+
+**Today's Progress**:
+1. freeCodeCamp (30mins)
+
+**Thoughts** 
+Today, my goal is to finish working through the applied Visual Design tasks. Another property that can be used with animation is `animation-iteration-count`. This property can be set to the amount of times you would like an animation to loop or, it can be set to `infinite` as well. Another property `animation-timing-function`, is one that I've used in the past that I could use a better understanding of the different keywords including:
++`ease` - starts slow, speeds up in the middle, then slows down again.
++`ease-out` - quick in the beginning, then slows down
++`ease-in` - slow in the beginning, then speeds up at the end
++`linear` - applies a constant animation speed throughout.
++`cubic-bezier` - the shape of the curve represents how the animation plays out. The x-axis is the duration of the animation (think of it as a time scale), the y-axis is the change in the animation.
+```css
+animation-timing-function: cubic-bezier(0.25, 0.25, 0.75, 0.75);
+```
+
+
+**Today's Links:**
+1. [Reactive UI Animations with CSS Variables](https://www.shopify.com/partners/blog/ui-animation)
