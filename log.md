@@ -482,6 +482,41 @@ Today, my goal is to finish working through the applied Visual Design tasks. Ano
 animation-timing-function: cubic-bezier(0.25, 0.25, 0.75, 0.75);
 ```
 
-
 **Today's Links:**
 1. [Reactive UI Animations with CSS Variables](https://www.shopify.com/partners/blog/ui-animation)
+
+# Day 28: June 11, 2018
+
+**Today's Progress**:
+1. freeCodeCamp (110mins)
+
+**Thoughts** 
+In the Applied Accessibility section I was reminded of the time element with the datetime attribute that can be used to standardize times. The datetime attribute is used to set a valid format of the date - this is the value accessed by assitive devices.
+```html
+<time datetime="2016-09-15">Thursday, September 15<sup>th</sup></time>
+```
+Also, I don't think I've used this in production yet, but the audio element can be used to wrap sound in markup. The `controls` attribute shows the browser default play, pause, and other controls.
+```html
+<audio id="meowClip" controls>
+  <source src="audio/meow.mp3" type="audio/mpeg" />
+  <source src="audio/meow.ogg" type="audio/ogg" />
+</audio>
+```
+CSS can be used to improve accessibility when you want to visually hide content meant only for screen readers (for example, when something visual like a chart needs an alternative presentation for screen readers - like a table).
+The following type of rule could accomplish this:
+```css
+.sr-only {
+position: absolute;
+left: -10000px;
+width: 1px;
+height: 1px;
+top: auto;
+overflow: hidden;
+}
+```
+**Do not** use `display: none` or `visibility: hidden` as this hides content from everyone, including screen readers. While using zero values for pixels such as `width: 0; height: 0` will remove the document from flow, meaning screen readers will ignore it.
+The Web Content Accessibility Guidelines (WCAG) recommend at least a 4.5 to 1 contrast ratio for normal text. 1:1 would be the ratio for the same color (no contrast) to 21:1 for white against black (the strongest contrast).
+I was introduced to the `accesskey` attribute which can be used to specify a shortcut key to activate or bring focus to an element. This attribute can be used on any element but is particularly useful when it's used with interactive ones including links, buttons, and form controls.
+```html
+<button accesskey="b">Important Button</button>
+```
