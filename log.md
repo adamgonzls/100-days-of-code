@@ -520,3 +520,16 @@ I was introduced to the `accesskey` attribute which can be used to specify a sho
 ```html
 <button accesskey="b">Important Button</button>
 ```
+
+# Day 29: June 13, 2018
+
+**Today's Progress**:
+1. freeCodeCamp (50mins)
+2. Slack Bot Research (70mins)
+
+**Thoughts** 
+Today I spent 50 mins working through freeCodeCamp's responsive and flexbox sections. Most of the information covered was pretty basic. I did find the explanation for the `flex` and `flex-basis` properties to be helpful. `flex-basis` specifies the initial size of an item before CSS makes adjustments with `flex-shrink` or `flex-grow`. `flex` is a shorthand property that sets `flex-grow`, `flex-shrink`, and `flex-basis` ex: `flex: 1 0 10px`. 
+
+**Today's Links:**
+1. [What does flex: 1 mean?](https://stackoverflow.com/questions/37386244/what-does-flex-1-mean/37386525)
+2. [Build a "Serverless" Slack Bot in 9 Minutes with Node.js and StdLib](https://medium.com/slack-developer-blog/build-a-serverless-slack-bot-in-9-minutes-with-node-js-and-stdlib-b993cfa15358)
