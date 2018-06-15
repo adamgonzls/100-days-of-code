@@ -533,3 +533,30 @@ Today I spent 50 mins working through freeCodeCamp's responsive and flexbox sect
 **Today's Links:**
 1. [What does flex: 1 mean?](https://stackoverflow.com/questions/37386244/what-does-flex-1-mean/37386525)
 2. [Build a "Serverless" Slack Bot in 9 Minutes with Node.js and StdLib](https://medium.com/slack-developer-blog/build-a-serverless-slack-bot-in-9-minutes-with-node-js-and-stdlib-b993cfa15358)
+
+# Day 30: June 14, 2018
+
+**Today's Progress**:
+1. ES6 (40mins)
+2. freeCodeCamp (30mins)
+
+**Thoughts** 
+An object's properties are not iterable. In order to iterate over all properties, something like `for in` could be used:
+```javascript
+const apple = {
+  color: 'red',
+  size: 'Medium',
+  weight: 50,
+  sugar: 10
+};
+
+for (const prop in apple) {
+  const value = apple[prop];
+  console.log(value);
+}
+```
+I spent some time working on freeCodeCamp. I went through all the CSS grid exercises. Now, I am ready to work on the different "Responsive Web Design Projects".
+
+**Today's Links:**
+1. [ES6 for Everyone](https://es6.io/)
+
