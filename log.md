@@ -560,3 +560,15 @@ I spent some time working on freeCodeCamp. I went through all the CSS grid exerc
 **Today's Links:**
 1. [ES6 for Everyone](https://es6.io/)
 
+# Day 31: June 16, 2018
+
+**Today's Progress**:
+1. Tooling (40mins)
+
+**Thoughts** 
+This morning I started working on my development environment for my next [project](https://github.com/adamgonzls/tribute-invader). I noticed some warning for npm so I also updated npm and the packages as well.
+
+**Today's Links:**
+1. [Try the latest stable version of npm](https://docs.npmjs.com/troubleshooting/try-the-latest-stable-version-of-npm)
+2. [Tribute to Invader](https://github.com/adamgonzls/tribute-invader)
+2. [ES6 for Everyone](https://es6.io/)
