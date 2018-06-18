@@ -564,11 +564,23 @@ I spent some time working on freeCodeCamp. I went through all the CSS grid exerc
 
 **Today's Progress**:
 1. Tooling (40mins)
+2. Tooling (40mins)
 
 **Thoughts** 
-This morning I started working on my development environment for my next [project](https://github.com/adamgonzls/tribute-invader). I noticed some warning for npm so I also updated npm and the packages as well.
+This morning I started working on my development environment for my next [project](https://github.com/adamgonzls/tribute-invader). I noticed some warning for npm so I also updated npm and the packages as well. I spent some time configuring the tooling implementing some of the configuration from past projects and adding some from current projects. I'm almost ready to start coding!
 
 **Today's Links:**
 1. [Try the latest stable version of npm](https://docs.npmjs.com/troubleshooting/try-the-latest-stable-version-of-npm)
 2. [Tribute to Invader](https://github.com/adamgonzls/tribute-invader)
-2. [ES6 for Everyone](https://es6.io/)
+3. [ES6 for Everyone](https://es6.io/)
+
+# Day 32: June 17, 2018
+
+**Today's Progress**:
+1. Tooling (55mins)
+
+**Thoughts** 
+I continued to configure my tooling today and I copied the content from my [existing](https://codepen.io/adamgonzls/pen/aNYzxB) tribute project. I'll need to update some of the containers to be more semantic and add some id's to meet the project requirements. I'll also spend a little time updating the content a little bit.
+
+**Today's Links:**
+1. [Tribute to Invader](https://github.com/adamgonzls/tribute-invader)
