@@ -578,6 +578,7 @@ This morning I started working on my development environment for my next [projec
 
 **Today's Progress**:
 1. Tooling (55mins)
+2. es6 (30mins)
 
 **Thoughts** 
 I continued to configure my tooling today and I copied the content from my [existing](https://codepen.io/adamgonzls/pen/aNYzxB) tribute project. I'll need to update some of the containers to be more semantic and add some id's to meet the project requirements. I'll also spend a little time updating the content a little bit.
