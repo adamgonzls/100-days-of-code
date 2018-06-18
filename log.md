@@ -581,6 +581,16 @@ This morning I started working on my development environment for my next [projec
 
 **Thoughts** 
 I continued to configure my tooling today and I copied the content from my [existing](https://codepen.io/adamgonzls/pen/aNYzxB) tribute project. I'll need to update some of the containers to be more semantic and add some id's to meet the project requirements. I'll also spend a little time updating the content a little bit.
+In ES6 for everyone, one of the exercises was to make a cool animation using .querySelector, .spread, and .map. I enjoyed this lesson and liked that it included template literals to go from the letters of the text to html surrounding each letter.
+```javascript
+// .querySelector, .spread, .map
+const heading = document.querySelector(".jump");
+heading.innerHTML = sparanWrap(heading.textContent);
 
+function sparanWrap(word) {
+  return [...word].map(letter => `<span>${letter}</span>`).join('');
+}
+```
 **Today's Links:**
 1. [Tribute to Invader](https://github.com/adamgonzls/tribute-invader)
+2. [ES6 for Everyone](https://es6.io/)
