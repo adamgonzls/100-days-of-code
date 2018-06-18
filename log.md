@@ -592,6 +592,20 @@ function sparanWrap(word) {
   return [...word].map(letter => `<span>${letter}</span>`).join('');
 }
 ```
+
 **Today's Links:**
 1. [Tribute to Invader](https://github.com/adamgonzls/tribute-invader)
 2. [ES6 for Everyone](https://es6.io/)
+
+# Day 33: June 18, 2018
+
+**Today's Progress**:
+1. tbd (55mins)
+
+**Thoughts** 
+
+
+**Today's Links:**
+1. [Using CSS Transitions on Auto Dimensions](https://css-tricks.com/using-css-transitions-auto-dimensions/)
+2. [ES6 for Everyone](https://es6.io/)
+
