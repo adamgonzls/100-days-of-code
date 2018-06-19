@@ -583,6 +583,7 @@ This morning I started working on my development environment for my next [projec
 **Thoughts** 
 I continued to configure my tooling today and I copied the content from my [existing](https://codepen.io/adamgonzls/pen/aNYzxB) tribute project. I'll need to update some of the containers to be more semantic and add some id's to meet the project requirements. I'll also spend a little time updating the content a little bit.
 In ES6 for everyone, one of the exercises was to make a cool animation using .querySelector, .spread, and .map. I enjoyed this lesson and liked that it included template literals to go from the letters of the text to html surrounding each letter.
+![A CSS demonstration on the word 'Spreads!' ](/images/spreads-demo.gif)
 ```javascript
 // .querySelector, .spread, .map
 const heading = document.querySelector(".jump");
