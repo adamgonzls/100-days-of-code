@@ -602,10 +602,11 @@ function sparanWrap(word) {
 # Day 33: June 18, 2018
 
 **Today's Progress**:
-1. tbd (55mins)
+1. es6 (20mins)
 
 **Thoughts** 
-
+Today, I worked through some spread operator examples.
+I also worked on one of the responsive web design projects. I had completed the project previously but since then, the requirements have changed and testing has been implemented. I modified the content to fit the requirements.
 
 **Today's Links:**
 1. [Using CSS Transitions on Auto Dimensions](https://css-tricks.com/using-css-transitions-auto-dimensions/)
