@@ -616,6 +616,7 @@ I also worked on one of the responsive web design projects. I had completed the 
 
 **Today's Progress**:
 1. es6 (40mins)
+2. Tribute to Invader (30mins)
 
 **Thoughts** 
 Today, I covered The rest parameter `...` (which looks like the spread operator but does the opposite) and used it with destructuring:
@@ -625,7 +626,11 @@ const team = ['kait', 'wes', 'john', 'lux', 'sheena'];
 const [captain, assistant, ...players] = team;
 console.log(captain, assistant, players); #
 ```
+Later, I worked some more on the Invader Tribute. I was updating some content and I decided to add some recent CSS features (css variables).
 
 **Today's Links:**
 1. [ES6 for Everyone](https://es6.io/)
+2. [404 pages from popular sites - Design Inspiration](https://medium.muz.li/404-pages-from-popular-sites-design-inspiration-26e84e9aa174)
+3. [Touching up blemishes on Sephora's UI](https://uxdesign.cc/touching-up-blemishes-on-sephoras-ui-c37ea572abbb)
+4. [Tribute to Invader](https://github.com/adamgonzls/tribute-invader)
 
