@@ -612,3 +612,20 @@ I also worked on one of the responsive web design projects. I had completed the 
 1. [Using CSS Transitions on Auto Dimensions](https://css-tricks.com/using-css-transitions-auto-dimensions/)
 2. [ES6 for Everyone](https://es6.io/)
 
+# Day 34: June 19, 2018
+
+**Today's Progress**:
+1. es6 (40mins)
+
+**Thoughts** 
+Today, I covered The rest parameter `...` (which looks like the spread operator but does the opposite) and used it with destructuring:
+```javascript
+const team = ['kait', 'wes', 'john', 'lux', 'sheena']; 
+# destructuring to assign captain and assitant variables, then rest to assign the 'rest' of the players to variable
+const [captain, assistant, ...players] = team;
+console.log(captain, assistant, players); #
+```
+
+**Today's Links:**
+1. [ES6 for Everyone](https://es6.io/)
+
