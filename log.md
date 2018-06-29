@@ -634,3 +634,17 @@ Later, I worked some more on the Invader Tribute. I was updating some content an
 3. [Touching up blemishes on Sephora's UI](https://uxdesign.cc/touching-up-blemishes-on-sephoras-ui-c37ea572abbb)
 4. [Tribute to Invader](https://github.com/adamgonzls/tribute-invader)
 
+# Day 35: June 29, 2018
+
+**Today's Progress**:
+1. es6 (40mins)
+2. Tribute to Invader 
+
+**Thoughts** 
+None yet
+
+**Today's Links:**
+1. [Shell Scripting Tutorial](https://www.shellscript.sh/)
+2. [How to Write AWK Commands and Scripts](https://www.lifewire.com/write-awk-commands-and-scripts-2200573)
+3. [Grep, Awk, and Sed in bash on OSX](http://techslides.com/grep-awk-and-sed-in-bash-on-osx)
+4. [Selecting rows in a CSV file based on column value](https://unix.stackexchange.com/questions/80471/selecting-rows-in-a-csv-file-based-on-column-value)
