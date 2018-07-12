@@ -634,3 +634,14 @@ Later, I worked some more on the Invader Tribute. I was updating some content an
 3. [Touching up blemishes on Sephora's UI](https://uxdesign.cc/touching-up-blemishes-on-sephoras-ui-c37ea572abbb)
 4. [Tribute to Invader](https://github.com/adamgonzls/tribute-invader)
 
+# Day 35: July 11, 2018
+
+**Today's Progress**:
+1. WordPress (110mins)
+
+**Thoughts** 
+Today, I worked on fine-tuning a page for work. I modified a plugin that displays software titles and descriptions to render h3 tags for the title and I chose to use the content that would be added on the backend with all the appropriate tags as opposed to how I added the h3's. I decided on this because the content added on the backend could have countless elements such as `<li>`, `<p>`, `<a>` and it would be hard to predict what could be added and have it render properly (not to mention it would depend on default CSS).
+I also added the helpful link below which I have referenced numerous times when trying to remember how to include a subject in an `<a>`.
+
+**Today's Links:**
+1. [Mailto Links](https://css-tricks.com/snippets/html/mailto-links/)
