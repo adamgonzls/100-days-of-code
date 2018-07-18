@@ -649,7 +649,6 @@ I spent time working on the command line and wrote a script to help me parse .cs
 2. [How to Write AWK Commands and Scripts](https://www.lifewire.com/write-awk-commands-and-scripts-2200573)
 3. [Grep, Awk, and Sed in bash on OSX](http://techslides.com/grep-awk-and-sed-in-bash-on-osx)
 4. [Selecting rows in a CSV file based on column value](https://unix.stackexchange.com/questions/80471/selecting-rows-in-a-csv-file-based-on-column-value)
->>>>>>> 06c7a904965c05c297f99d6c7640fe179f7d75ce
 
 # Day 36: July 11, 2018
 
@@ -662,3 +661,15 @@ I also added the helpful link below which I have referenced numerous times when 
 
 **Today's Links:**
 1. [Mailto Links](https://css-tricks.com/snippets/html/mailto-links/)
+
+# Day 37: July 17, 2018
+
+**Today's Progress**:
+1. Dev Environment / Gulp 4 (80mins)
+
+**Thoughts** 
+Today I decided to create a little dev environment that I could have available when needed. I could always use http-server but this environment is more comprehensive - I included gulp-sass and browsersync. Speaking of Gulp, I tried to upgrade to Gulp 4 but ran into errors. I tried to resolve them but I think that I need to re-create my entire Gulp file and I don't really want to do that right now. I'd rather focus on learning other things at the moment. I started reading through their [documentation](https://github.com/gulpjs/gulp) but it still appears to be geared toward the older version. I checked another senior developers gulpfile and he was still using 3.9 so, I reverted. Tomorrow, I'd like to get back to learning.
+
+**Today's Links:**
+1. [Playground](https://github.com/adamgonzls/playground)
+2. [Introduction to JavaScript](https://sabe.io/classes/javascript/introduction)
