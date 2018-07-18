@@ -465,6 +465,7 @@ Another good lesson today was on CSS @keyframes and animations. I've done these 
 
 **Today's Links:**
 1. [ES6 for Everyone](https://es6.io/)
+2. [Applied Visual Design: Learn How the CSS @keyframes and animation Properties Work](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/learn-how-the-css-keyframes-and-animation-properties-work)
 
 # Day 27: June 10, 2018
 
@@ -668,8 +669,9 @@ I also added the helpful link below which I have referenced numerous times when 
 1. Dev Environment / Gulp 4 (80mins)
 
 **Thoughts** 
-Today I decided to create a little dev environment that I could have available when needed. I could always use http-server but this environment is more comprehensive - I included gulp-sass and browsersync. Speaking of Gulp, I tried to upgrade to Gulp 4 but ran into errors. I tried to resolve them but I think that I need to re-create my entire Gulp file and I don't really want to do that right now. I'd rather focus on learning other things at the moment. I started reading through their [documentation](https://github.com/gulpjs/gulp) but it still appears to be geared toward the older version. I checked another senior developers gulpfile and he was still using 3.9 so, I reverted. Tomorrow, I'd like to get back to learning.
+Today I decided to create a little dev environment that I could have available when needed. I could always use http-server but this environment is more comprehensive - I included gulp-sass and browsersync. Speaking of Gulp, I tried to upgrade to Gulp 4 but ran into errors. I tried to resolve them but I think that I need to re-create my entire Gulp file and I don't really want to do that right now. I'd rather focus on learning other things at the moment. I started reading through their [documentation](https://github.com/gulpjs/gulp) but it still appears to be geared toward the older version. I checked another senior developers gulpfile and he was still using 3.9 so, I reverted. Tomorrow, I'd like to get back to learning. Also, while wrapping up my Invader tribute page, I wanted to use a transition for an effect when rolling over some text. It made me think back to using the @keyframes and I have added the FreeCodeCamp lesson that talked about that so I may update the effect to use that instead (so I can add infinite duration).
 
 **Today's Links:**
 1. [Playground](https://github.com/adamgonzls/playground)
 2. [Introduction to JavaScript](https://sabe.io/classes/javascript/introduction)
+3. [Applied Visual Design: Learn How the CSS @keyframes and animation Properties Work](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/learn-how-the-css-keyframes-and-animation-properties-work)
