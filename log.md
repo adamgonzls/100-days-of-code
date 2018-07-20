@@ -675,3 +675,16 @@ Today I decided to create a little dev environment that I could have available w
 1. [Playground](https://github.com/adamgonzls/playground)
 2. [Introduction to JavaScript](https://sabe.io/classes/javascript/introduction)
 3. [Applied Visual Design: Learn How the CSS @keyframes and animation Properties Work](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/learn-how-the-css-keyframes-and-animation-properties-work)
+
+# Day 38: July 19, 2018
+
+**Today's Progress**:
+1. JavaScript (40mins)
+
+**Thoughts** 
+I worked a little on my playground - so glad I decided this method for development. Not having to constantly manually refresh the page is so much more convenient.
+I also went through a few JavaScript lessons on (sabe.io)[https://sabe.io]. The lessons I did were pretty basic to me, which is good. I also covered some ES6 methods.
+
+**Today's Links:**
+1. [Playground](https://github.com/adamgonzls/playground)
+2. [Introduction to JavaScript](https://sabe.io/classes/javascript/introduction)
