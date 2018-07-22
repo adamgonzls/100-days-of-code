@@ -688,3 +688,33 @@ I also went through a few JavaScript lessons on (sabe.io)[https://sabe.io]. The 
 **Today's Links:**
 1. [Playground](https://github.com/adamgonzls/playground)
 2. [Introduction to JavaScript](https://sabe.io/classes/javascript/introduction)
+
+# Day 39: July 22, 2018
+
+**Today's Progress**:
+1. JavaScript (80mins)
+
+**Thoughts** 
+In the intro to JavaScript, I was introduced to some JS methods I haven't used yet such as `Math.pow()`
+```javascript
+let number = Math.pow(3, 2); // 9
+```
+I've used random before but I want to make note of it here *(you'd make your own function that uses Math.random() in order to get any number outside of the scope of 0 - 1)*:
+```javascript
+let rando = Math.random(); // some random number between 0 and 1
+```
+Continuing with the Intro to JavaScript, I found a [good reminder](https://sabe.io/classes/javascript/loops) of a `for in` loop.
+```javascript
+const person = {
+  name: "Max",
+  weight: "180",
+  age: 28
+};
+for (const property in person) {
+  console.log("This person's " + property + " is " + person[property] + ".");
+}
+```
+
+**Today's Links:**
+1. [Playground](https://github.com/adamgonzls/playground)
+2. [Introduction to JavaScript](https://sabe.io/classes/javascript/introduction)
