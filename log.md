@@ -718,3 +718,15 @@ for (const property in person) {
 **Today's Links:**
 1. [Playground](https://github.com/adamgonzls/playground)
 2. [Introduction to JavaScript](https://sabe.io/classes/javascript/introduction)
+
+# Day 38: July 23, 2018
+
+**Today's Progress**:
+1. git (60mins)
+
+**Thoughts** 
+Silly, today I spent way too much time trying to figure out why when I cloned a repo on my other computer, it was cloning the repo into a directory with the projects name. This was a rookie mistake.
+I cloned using `git clone nameofrepo` and I should have typed `git clone nameofrepo .`.
+
+**Today's Links:**
+1. [Git clone without project folder](https://stackoverflow.com/questions/17581379/git-clone-without-project-folder)
