@@ -730,3 +730,14 @@ I cloned using `git clone nameofrepo` and I should have typed `git clone nameofr
 
 **Today's Links:**
 1. [Git clone without project folder](https://stackoverflow.com/questions/17581379/git-clone-without-project-folder)
+
+# Day 39: July 24, 2018
+
+**Today's Progress**:
+1. JavaScript (30mins)
+
+**Thoughts** 
+Pretty basic lesson on arrays and array methods.
+
+**Today's Links:**
+1. [Introduction to JavaScript](https://sabe.io/classes/javascript/arrays)
