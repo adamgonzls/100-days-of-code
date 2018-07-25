@@ -736,10 +736,12 @@ I cloned using `git clone nameofrepo` and I should have typed `git clone nameofr
 **Today's Progress**:
 1. JavaScript (30mins)
 2. JavaScript (30mins)
+3. Bash (15mins)
 
 **Thoughts** 
 Pretty basic lesson on arrays and array methods.
 Later I worked on automating the process of deploying to Gh-Pages using Gulp. I used this on my tribute to Invader. The next Codecademy project is the [survey form](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form). I'll probably use my playground repo as my base for new projects or, I may clean it up and create a new repo called "scaffolding".
+I also watched a tutorial on Bash.I learned that with `cat` I could view the contents of a file. I could append to an existing file by using the `>>` such as `echo 'hello world' >> file.txt` I also learned that I could create nested directories using `mkdir -p a/b/c`.
 
 **Today's Links:**
 1. [Introduction to JavaScript](https://sabe.io/classes/javascript/arrays)
