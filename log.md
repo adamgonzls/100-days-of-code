@@ -735,9 +735,14 @@ I cloned using `git clone nameofrepo` and I should have typed `git clone nameofr
 
 **Today's Progress**:
 1. JavaScript (30mins)
+2. JavaScript (30mins)
 
 **Thoughts** 
 Pretty basic lesson on arrays and array methods.
+Later I worked on automating the process of deploying to Gh-Pages using Gulp. I used this on my tribute to Invader. The next Codecademy project is the [survey form](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form). I'll probably use my playground repo as my base for new projects or, I may clean it up and create a new repo called "scaffolding".
 
 **Today's Links:**
 1. [Introduction to JavaScript](https://sabe.io/classes/javascript/arrays)
+2. [Deploying to GitHub Pages with Gulp](https://medium.com/superhighfives/deploying-to-github-pages-with-gulp-c06efc527de8)
+3. [Invader](https://adamgonzls.github.io/tribute-invader/)
+4. [Build a Survey Form](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
