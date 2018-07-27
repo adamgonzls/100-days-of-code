@@ -748,3 +748,15 @@ I also watched a tutorial on Bash.I learned that with `cat` I could view the con
 2. [Deploying to GitHub Pages with Gulp](https://medium.com/superhighfives/deploying-to-github-pages-with-gulp-c06efc527de8)
 3. [Invader](https://adamgonzls.github.io/tribute-invader/)
 4. [Build a Survey Form](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+
+# Day 40: July 26, 2018
+
+**Today's Progress**:
+1. JavaScript (65mins)
+2. Tooling (30mins)
+
+**Thoughts** 
+This evening I came up with a solution to a bug on my Random Quote Generator. Basically, when you clicked the (hidden) button to get another quote, the timer wouldn't reset. I fixed that. Then, I decided to get this site functioning similar to my Invader Tribute so I moved several files around and modified my gulp file and added the `gulp deploy` task to make pushing the site up to GitHub Pages much quicker. 
+
+**Today's Links:**
+1. [Random Quote Generator](https://adamgonzls.github.io/random-quote-generator/)
