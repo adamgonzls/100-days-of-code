@@ -760,3 +760,30 @@ This evening I came up with a solution to a bug on my Random Quote Generator. Ba
 
 **Today's Links:**
 1. [Random Quote Generator](https://adamgonzls.github.io/random-quote-generator/)
+
+# Day 41: July 27, 2018
+
+**Today's Progress**:
+1. JavaScript (25mins)
+
+**Thoughts** 
+I worked on the objects chapter and liked the `.keys` method which will return the all of an object's keys in an array.
+```javascript
+console.log(Object.keys(dog));
+// ["name", "age", "bark"]
+```
+Similarily, the `.values` method will return all the values of a JavaScript object in an array.
+``` javascript
+console.log(Object.values(dog));
+// ["Cooper", 3, f] // the f refers to the bark method
+```
+Lastly, if you want both the keys and values of an object, you can use the `.entries` method.
+```javascript
+console.log(Object.entries(dog));
+//0: ["name", "Cooper"]
+//1: ["age", 3]
+//2: ["bark", ƒ]
+```
+
+**Today's Links:**
+1. [Sabe.io](https://sabe.io/classes/javascript/objects)
