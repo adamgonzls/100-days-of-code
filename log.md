@@ -787,3 +787,36 @@ console.log(Object.entries(dog));
 
 **Today's Links:**
 1. [Sabe.io](https://sabe.io/classes/javascript/objects)
+
+# Day 42: July 28, 2018
+
+**Today's Progress**:
+1. JavaScript (80mins)
+
+**Thoughts** 
+Worked on adding a favicon to my random quote generator and I added some quotes.
+I then went through a lesson on JS classes. I enjoyed learning about the `class` keyword, `constructor` keyword, extending and `super`. I modified the tutorial code and was getting an undefined on one of my properties and then was able to figure out that my extended class wasn't using the appropriate property name established in the original class.
+
+**Today's Links:**
+1. [Sabe.io](https://sabe.io/classes/javascript/classes)
+
+# Day 43: July 29, 2018
+
+**Today's Progress**:
+1. JavaScript (mins)
+
+**Thoughts** 
+Sets are an object type that let you create a collection of values that must be unique.
+```javascript
+var social = new Set();
+
+social.add("Facebook");
+social.add("Twitter");
+social.add("LinkedIn");
+
+console.log(social);
+// {"Facebook", "Twitter", "LinkedIn"}
+```
+
+**Today's Links:**
+1. [Sabe.io](https://sabe.io/classes/javascript/sets)
