@@ -885,3 +885,14 @@ After going through a few sections on sabe.io, I started looking for an article 
 
 **Today's Links:**
 1. [Sabe.io](https://sabe.io/classes/javascript/sets)
+
+# Day 43: July 30, 2018
+
+**Today's Progress**:
+1. JavaScript (mins)
+
+**Thoughts** 
+I found the article I was looking for yesterday regarding [EM vs REM vs PX](https://engageinteractive.co.uk/blog/em-vs-rem-vs-px), I'll research it further tonight.
+
+**Today's Links:**
+1. [REM vs EM vs PX](https://engageinteractive.co.uk/blog/em-vs-rem-vs-px)
