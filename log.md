@@ -803,10 +803,10 @@ I then went through a lesson on JS classes. I enjoyed learning about the `class`
 # Day 43: July 29, 2018
 
 **Today's Progress**:
-1. JavaScript (mins)
+1. JavaScript (90mins)
 
 **Thoughts** 
-Sets are an object type that let you create a collection of values that must be unique.
+**Sets** are an object type that let you create a collection of values that must be unique.
 ```javascript
 var social = new Set();
 
@@ -817,6 +817,71 @@ social.add("LinkedIn");
 console.log(social);
 // {"Facebook", "Twitter", "LinkedIn"}
 ```
+**Maps** are an object type that allow you to store collections in key-value pairs. An analogy would be a dictionary - if you want to know the definition of a word (the value), you only need to locate the word (the key).
+```javascript
+var map = new Map();
+
+map.set("red", "apple");
+map.set("blue", "blueberry");
+map.set("green", "pear");
+
+console.log(map);
+// {"red" => "apple"}
+// {"blue" => "blueberry"}
+// {"green" => "pear"}
+```
+**setTimeout** runs a function after a certain amount of time has elapsed. **setInterval** can be used to make the same code repeat over and over, with a set amount ot time in between.
+The **Date** object abstracts away a lot of the behind-the-scenes work of getting dates directly.
+```javascript
+let date = new Date();
+console.log(date);
+// Sun Jul 29 2018 18:33:58 GMT-0700 (Mountain Standard Time)
+```
+**Single elements** can be located and manipulated in the DOM by using the `querySelector` method on the `document` object. This method requires a string which can be an ID, class, or tag name of an element.
+```javascript
+var apples = document.querySelector("#apple");
+var pears = document.querySelector(".pears");
+var oranges = document.querySelector("span");
+
+console.log(apples);
+console.log(pears);
+console.log(oranges);
+//<div id="apple">Apples taste good.</div>
+//<div class="pears">Pears also taste good.</div>
+//<span>Same goes with oranges.</span>
+```
+`querySelectorAll` can be used to get back a list of **Multiple elements**. 
+```javascript
+var fruits = document.querySelectorAll(".fruit");
+console.log(fruits);
+//(3) [div.fruit, div.fruit, div.fruit]
+```
+The JavaScript `classList` property can be used to easily **add**, **remove**, or check if a element **contains** a class or not.
+**Add**
+```javascript
+var fruit = document.querySelector(".apple");
+fruit.classList.add("tasty");
+// <div class="apple tasty">Apples are tasty.</div>
+```
+**Remove**
+```javascript
+var fruit = document.querySelector(".apple");
+fruit.classList.remove("tasty");
+// <div>Apples are tasty.</div>
+```
+**Contains**
+```javascript
+var fruit = document.querySelector(".apple");
+fruit.classList.add("tasty");
+
+if (fruit.classList.contains("tasty")) {
+  console.log("This fruit is tasty!");
+} else {
+  console.log("This fruit is not tasty!");
+}
+// This fruit is tasty
+```
+After going through a few sections on sabe.io, I started looking for an article that I've seen a few times on how to use pixels at root and rems for the rest of the site- except they said to use 100% at root and use SCSS mixins to better calculate the sizes of fonts - the reasoning was that by setting the font size at root to 10px, you are defeating what you are hoping to accomplish by using rems- which is accessibility. Using 10px at root, overrides what the user has their browser set to - I liked the reasoning and I was looking to implement this in my playground or invader tribute page to see how to implement this.
 
 **Today's Links:**
 1. [Sabe.io](https://sabe.io/classes/javascript/sets)
