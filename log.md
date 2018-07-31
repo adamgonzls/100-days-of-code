@@ -889,10 +889,27 @@ After going through a few sections on sabe.io, I started looking for an article 
 # Day 43: July 30, 2018
 
 **Today's Progress**:
-1. JavaScript (mins)
+1. SCSS (60mins)
+2. JavaScript (35mins)
 
 **Thoughts** 
-I found the article I was looking for yesterday regarding [EM vs REM vs PX](https://engageinteractive.co.uk/blog/em-vs-rem-vs-px), I'll research it further tonight.
+I found the article I was looking for yesterday regarding [EM vs REM vs PX](https://engageinteractive.co.uk/blog/em-vs-rem-vs-px), I'll research it further tonight. I implemented this idea with help from [Easy-Peasy REM Conversion with SASS](http://www.stubbornella.org/content/2013/07/01/easy-peasy-rem-conversion-with-sass/). I'm not sure if I like it yet and I'm not sure if I should continue to use pixels for margins and padding. Looking at [CSS-Tricks](https://css-tricks.com), it looks like they use REMs. Blast. Which makes me think my fontSize mixin may not work well. I need a function where I can input a pixel unit and it will convert it to rems. I'm thinking this article will be my next resource for this [Using pure Sass functions to make reusable logic more useful](http://thesassway.com/advanced/pure-sass-functions) In this article, (and using methods from Easy-Peasy REM Convertion), I found how to write a simple function to return a value:
+```scss
+@function calculateMargin($size) {
+  $remSize: $size / 16px;
+  @return #{$remSize}rem;
+}
+```
 
 **Today's Links:**
 1. [REM vs EM vs PX](https://engageinteractive.co.uk/blog/em-vs-rem-vs-px)
+2. [Easy-Peasy REM Conversion with SASS](http://www.stubbornella.org/content/2013/07/01/easy-peasy-rem-conversion-with-sass/)
+3. [Using pure Sass functions to make reusable logic more useful](http://thesassway.com/advanced/pure-sass-functions)
+4. [Sabe.io](https://sabe.io/classes/javascript/localstorage-sessionstorage)
+
+
+
+
+
+
+http://www.stubbornella.org/content/2013/07/01/easy-peasy-rem-conversion-with-sass/
