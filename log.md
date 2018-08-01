@@ -907,9 +907,18 @@ I found the article I was looking for yesterday regarding [EM vs REM vs PX](http
 3. [Using pure Sass functions to make reusable logic more useful](http://thesassway.com/advanced/pure-sass-functions)
 4. [Sabe.io](https://sabe.io/classes/javascript/localstorage-sessionstorage)
 
+# Day 44: July 31, 2018
+
+**Today's Progress**:
+1. JavaScript (30mins)
+2. PHP (75mins)
+
+**Thoughts** 
+Started with a lesson on regular expressions. It was a pretty good refresher. Will probably go back and try my hand at that website I previously used which had regular expression exercises.
+Later I attempted to write a "share to twitter" button code in PHP. I got it to work but, I am getting warnings and errors in chrome... I'm not sure if I need to clear those errors and warnings or if I can ignore them.
+
+**Today's Links:**
+1. [Sabe.io](https://sabe.io/classes/javascript/regular-expressions)
 
 
 
-
-
-http://www.stubbornella.org/content/2013/07/01/easy-peasy-rem-conversion-with-sass/
