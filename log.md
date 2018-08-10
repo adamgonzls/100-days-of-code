@@ -924,14 +924,17 @@ Later I attempted to write a "share to twitter" button code in PHP. I got it to 
 
 **Today's Progress**:
 1. JavaScript (15mins)
-2. React ()
+2. React (60mins)
 
 **Thoughts** 
 Finished the Sabe.io [JavaScript for the Web](https://sabe.io/classes/javascript) course. Pretty good course.
-Later I started Wes Bos' [React for Beginners](https://reactforbeginners.com/) course. I already have Node but since I haven't updated I looked up how to [update Node via the command line](http://blog.teamtreehouse.com/install-node-js-npm-mac) (it's been a long time) 
+Later I started Wes Bos' [React for Beginners](https://reactforbeginners.com/) course. I already have Node but since I haven't updated I looked up how to [update Node via the command line](http://blog.teamtreehouse.com/install-node-js-npm-mac) (it's been a long time). 
+I got through the first video, unfortunately, my node version was quite old ~6 and the recommended version for this series is ~9. Of course `brew upgrade node` resulted in node  v~10, a version with known issues dealing with the dependencies. I may end up installing `nvm` so I can switch node versions at will. This sitepoint [article](https://www.sitepoint.com/quick-tip-multiple-versions-node-nvm/) seems like a good resource.
 
 **Today's Links:**
 1. [Sabe.io](https://sabe.io/classes/javascript/errors-exceptions-debugging)
 2. [How to Install Node.js and NPM on a Mac
-]http://blog.teamtreehouse.com/install-node-js-npm-mac
+](http://blog.teamtreehouse.com/install-node-js-npm-mac)
+3. [Installing Multiple Versions of Node.js Using nvm
+](https://www.sitepoint.com/quick-tip-multiple-versions-node-nvm)
 
