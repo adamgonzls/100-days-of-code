@@ -920,5 +920,18 @@ Later I attempted to write a "share to twitter" button code in PHP. I got it to 
 **Today's Links:**
 1. [Sabe.io](https://sabe.io/classes/javascript/regular-expressions)
 
+# Day 45: August 8, 2018
 
+**Today's Progress**:
+1. JavaScript (15mins)
+2. React ()
+
+**Thoughts** 
+Finished the Sabe.io [JavaScript for the Web](https://sabe.io/classes/javascript) course. Pretty good course.
+Later I started Wes Bos' [React for Beginners](https://reactforbeginners.com/) course. I already have Node but since I haven't updated I looked up how to [update Node via the command line](http://blog.teamtreehouse.com/install-node-js-npm-mac) (it's been a long time) 
+
+**Today's Links:**
+1. [Sabe.io](https://sabe.io/classes/javascript/errors-exceptions-debugging)
+2. [How to Install Node.js and NPM on a Mac
+]http://blog.teamtreehouse.com/install-node-js-npm-mac
 
