@@ -942,6 +942,7 @@ I got through the first video, unfortunately, my node version was quite old ~6 a
 
 **Today's Progress**:
 1. Dev Environment (50mins)
+2. React (35mins)
 
 **Thoughts** 
 Due to the issues with the installed node version yesterday, I decided to uninstall Node and install NVM. So far, I'm optimistic- the installation seems to have gone through well. I'll just have to check other projects and see if I need to delete the node_modules folder and re-install. I might take this a step further and install [AVN](https://www.npmjs.com/package/avn) - I felt that I want to have something that would be able to tell nvm what version of node a particular project requires. 
@@ -952,3 +953,18 @@ With all that done, I moved on from the first video (tooling) in Wes Bos' [React
 2. [The Best Way to Install Node.js](https://sabe.io/classes/javascript/errors-exceptions-debugging)
 3. [NVM](https://github.com/creationix/nvm#install-script)
 4. [React for Beginners](https://reactforbeginners.com/)
+
+# Day 47: August 11, 2018
+
+**Today's Progress**:
+1. React (35mins)
+2. React (40mins)
+
+**Thoughts** 
+I worked on React for Beginners some more. I spent some time getting Emmet to work "better" with React JSX. Basically, when I was in "Reactland", Emmet was not autocompleting when I wrote a p + tab in order to create an opening and closing `<p></p>` tag. Additionally, if I typed storePicker.open, it wouldn't create a storePicker element with class (className) `<storePicker className='open'></storepicker>`. I figured this would have me deviate from what Wes was doing and additionally slow me down so, I researched this and got it resolved. Additionally, I added the [Scope Hunter](https://github.com/facelessuser/ScopeHunter) plugin to ST3 to help with this implementation (basically, without this if I wanted to add a variable or something outside of the scope, and hit tab, it would have created an opening and closing tag using that variable's name.)
+
+**Today's Links:**
+1. [React for Beginners](https://reactforbeginners.com/)
+2. [Emmet expansions and className in React JSX](https://wesbos.com/emmet-react-jsx-sublime/)
+3. [How to properly get a TAB trigger working with Emmet inside of JSX](https://gist.github.com/wesbos/2bb4a6998635df97c748)
+3. [Scope Hunter]https://github.com/facelessuser/ScopeHunter
