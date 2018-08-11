@@ -938,3 +938,17 @@ I got through the first video, unfortunately, my node version was quite old ~6 a
 3. [Installing Multiple Versions of Node.js Using nvm
 ](https://www.sitepoint.com/quick-tip-multiple-versions-node-nvm)
 
+# Day 46: August 10, 2018
+
+**Today's Progress**:
+1. Dev Environment (50mins)
+
+**Thoughts** 
+Due to the issues with the installed node version yesterday, I decided to uninstall Node and install NVM. So far, I'm optimistic- the installation seems to have gone through well. I'll just have to check other projects and see if I need to delete the node_modules folder and re-install. I might take this a step further and install [AVN](https://www.npmjs.com/package/avn) - I felt that I want to have something that would be able to tell nvm what version of node a particular project requires. 
+With all that done, I moved on from the first video (tooling) in Wes Bos' [React for Beginners](https://reactforbeginners.com/) course to create my first component.
+
+**Today's Links:**
+1. [Remove Node and NPM on OSX](https://gist.github.com/bradwestfall/2ca354323e30924c9099)
+2. [The Best Way to Install Node.js](https://sabe.io/classes/javascript/errors-exceptions-debugging)
+3. [NVM](https://github.com/creationix/nvm#install-script)
+4. [React for Beginners](https://reactforbeginners.com/)
