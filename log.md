@@ -968,3 +968,14 @@ I worked on React for Beginners some more. I spent some time getting Emmet to wo
 2. [Emmet expansions and className in React JSX](https://wesbos.com/emmet-react-jsx-sublime/)
 3. [How to properly get a TAB trigger working with Emmet inside of JSX](https://gist.github.com/wesbos/2bb4a6998635df97c748)
 3. [Scope Hunter]https://github.com/facelessuser/ScopeHunter
+
+# Day 48: August 13, 2018
+
+**Today's Progress**:
+1. React (50mins)
+
+**Thoughts** 
+I re-started Wes Bos' React for Beginners course again today mostly so I could fork the repo and save the changes to my own repo.
+
+**Today's Links:**
+1. [React for Beginners](https://reactforbeginners.com/)
