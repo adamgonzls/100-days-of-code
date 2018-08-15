@@ -950,7 +950,7 @@ With all that done, I moved on from the first video (tooling) in Wes Bos' [React
 
 **Today's Links:**
 1. [Remove Node and NPM on OSX](https://gist.github.com/bradwestfall/2ca354323e30924c9099)
-2. [The Best Way to Install Node.js](https://sabe.io/classes/javascript/errors-exceptions-debugging)
+2. [The Best Way to Install Node.js](https://yoember.com/nodejs/the-best-way-to-install-node-js/)
 3. [NVM](https://github.com/creationix/nvm#install-script)
 4. [React for Beginners](https://reactforbeginners.com/)
 
@@ -1005,7 +1005,22 @@ I spent some time researching how to create React snippets in Sublime. I haven't
 **Today's Links:**
 1. [React for Beginners](https://reactforbeginners.com/)
 
+**Today's Links:**
+1. [React for Beginners](https://reactforbeginners.com/)
 
+# Day 50: August 14, 2018
+
+**Today's Progress**:
+1. Dev Environment (45mins)
+
+**Thoughts** 
+I updated my node environment at work to use nvm. Going through the process a 2nd time still took some digging 🤓
+
+**Today's Links:**
+1. [Remove Node and NPM on OSX](https://gist.github.com/bradwestfall/2ca354323e30924c9099)
+2. [The Best Way to Install Node.js](https://yoember.com/nodejs/the-best-way-to-install-node-js/)
+3. [nvm](https://github.com/creationix/nvm#install-script)
+4. [Set default node version with NVM](https://eric.blog/2016/08/23/set-default-node-version-with-nvm/)
 
 
 
