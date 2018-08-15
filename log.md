@@ -979,3 +979,33 @@ I re-started Wes Bos' React for Beginners course again today mostly so I could f
 
 **Today's Links:**
 1. [React for Beginners](https://reactforbeginners.com/)
+
+# Day 49: August 14, 2018
+
+**Today's Progress**:
+1. React (45mins)
+
+**Thoughts** 
+I am now caught up to where I was before I re-started the *React for Beginners* course. The basic building block for a component is as follows: 
+```javascript
+import React from 'react';
+
+class ComponentName extends React.Component {
+  render() {
+    return (
+
+    )
+  }
+}
+
+export default ComponentName;
+```
+I spent some time researching how to create React snippets in Sublime. I haven't figured that out yet.
+
+**Today's Links:**
+1. [React for Beginners](https://reactforbeginners.com/)
+
+
+
+
+
