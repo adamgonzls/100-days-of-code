@@ -1005,22 +1005,39 @@ I spent some time researching how to create React snippets in Sublime. I haven't
 **Today's Links:**
 1. [React for Beginners](https://reactforbeginners.com/)
 
-**Today's Links:**
-1. [React for Beginners](https://reactforbeginners.com/)
-
 # Day 50: August 14, 2018
 
 **Today's Progress**:
 1. Dev Environment (45mins)
+2. React (30mins)
 
 **Thoughts** 
 I updated my node environment at work to use nvm. Going through the process a 2nd time still took some digging 🤓
+In React for Beginners, I covered *Stateless Functional Components* (syntax below). Basically, if all your React Component does is get rendered, a Stateless functional component should be used instead.
+```javascript
+import React from 'react';
+
+const Header = props => (
+  <header className="top">
+    <h1>Catch
+    <span className="ofThe">
+      <span className="of">of</span>
+      <span className="the">the</span>
+    </span>
+    Day</h1>
+    <h3 className="tagline">
+      <span>{props.tagline}</span>
+    </h3>
+  </header>
+);
+
+export default Header;
+```
 
 **Today's Links:**
 1. [Remove Node and NPM on OSX](https://gist.github.com/bradwestfall/2ca354323e30924c9099)
 2. [The Best Way to Install Node.js](https://yoember.com/nodejs/the-best-way-to-install-node-js/)
 3. [nvm](https://github.com/creationix/nvm#install-script)
 4. [Set default node version with NVM](https://eric.blog/2016/08/23/set-default-node-version-with-nvm/)
-
-
+5. [React for Beginners](https://reactforbeginners.com/)
 
