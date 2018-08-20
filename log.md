@@ -1005,7 +1005,7 @@ I spent some time researching how to create React snippets in Sublime. I haven't
 **Today's Links:**
 1. [React for Beginners](https://reactforbeginners.com/)
 
-# Day 50: August 14, 2018
+# Day 50: August 15, 2018
 
 **Today's Progress**:
 1. Dev Environment (45mins)
@@ -1041,3 +1041,30 @@ export default Header;
 4. [Set default node version with NVM](https://eric.blog/2016/08/23/set-default-node-version-with-nvm/)
 5. [React for Beginners](https://reactforbeginners.com/)
 
+# Day 51: August 19, 2018
+
+**Today's Progress**:
+1. Dev Environment (120mins)
+
+**Thoughts** 
+Today I worked on my dev environment to restart Wes Bos' [ES6 For Everyone](https://es6.io). I decided that last time I took this course, I overwrote a lot of useful examples. I also spent a lot of time saving, switching to chrome, and refreshing the page. I decided to incorporate BrowserSync to make development faster and I also learned a little more about BrowserSync to make switching directories and files quicker.
+```javascript
+gulp.task('serve', ['sass'], function() {
+  browserSync.init({
+    server: {
+      directory: true,
+      baseDir: "./"
+    },
+    files: "styles.css",
+  });
+
+  gulp.watch("./scss/*.scss", ['sass']);
+  gulp.watch("./*/*.js").on('change', browserSync.reload);
+  gulp.watch("./*/*.html").on('change', browserSync.reload);
+});
+```
+I'll concurrently work on this course and the React course.
+
+**Today's Links:**
+1. [ES6 For Everyone!](https://es6.io)
+2. [BrowserSync - Server](https://browsersync.io/docs/options#option-server)
