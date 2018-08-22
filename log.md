@@ -1068,3 +1068,28 @@ I'll concurrently work on this course and the React course.
 **Today's Links:**
 1. [ES6 For Everyone!](https://es6.io)
 2. [BrowserSync - Server](https://browsersync.io/docs/options#option-server)
+
+# Day 52: August 21, 2018
+
+**Today's Progress**:
+1. ES6 (30mins)
+
+**Thoughts** 
+In ES6 for Everyone, I got through section 1 (again). Basically this one covers `var`, `let`, and `const`. Wes talks about two different ways to deal with variables in ES6 and I think I agree with his version to use `const` by default and `let` when necessary, `var` is not used in this method. `const` is not about immutability as evidenced from the example below, object values can be updated.
+```javascript
+const person = {
+  name: 'West',
+  age: 28
+}
+console.log(person);
+
+person.name = "Wesley";
+
+console.log(person);
+```
+In React for Beginners, I worked on adding the router and adding routes. Also, I imported a helper function. 
+Overall, I feel pretty good with the material I covered today. I feel pretty comfortable with using ES6 syntax and I felt that I was able to import some things into React before Wes mentioned them. Still a beginner but at least I'm comprehending what I need to do.
+
+**Today's Links:**
+1. [ES6 For Everyone!](https://es6.io)
+2. [React for Beginners](https://reactforbeginners.com/)
