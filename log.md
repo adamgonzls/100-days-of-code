@@ -1072,7 +1072,8 @@ I'll concurrently work on this course and the React course.
 # Day 52: August 21, 2018
 
 **Today's Progress**:
-1. ES6 (30mins)
+1. ES6 (55mins)
+2. React (25mins)
 
 **Thoughts** 
 In ES6 for Everyone, I got through section 1 (again). Basically this one covers `var`, `let`, and `const`. Wes talks about two different ways to deal with variables in ES6 and I think I agree with his version to use `const` by default and `let` when necessary, `var` is not used in this method. `const` is not about immutability as evidenced from the example below, object values can be updated.
@@ -1093,3 +1094,14 @@ Overall, I feel pretty good with the material I covered today. I feel pretty com
 **Today's Links:**
 1. [ES6 For Everyone!](https://es6.io)
 2. [React for Beginners](https://reactforbeginners.com/)
+
+**Today's Progress**:
+1. React (44mins)
+2. Git (10mins)
+
+**Thoughts** 
+Today in React for Beginners I added a property to the StorePicker which would use the value from the form input to route us to the specific store's url. I had to add a `ref` to the input in order to get the value from the input.
+
+**Today's Links:**
+1. [React for Beginners](https://reactforbeginners.com/)
+
