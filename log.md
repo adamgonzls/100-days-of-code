@@ -1105,3 +1105,35 @@ Today in React for Beginners I added a property to the StorePicker which would u
 **Today's Links:**
 1. [React for Beginners](https://reactforbeginners.com/)
 
+# Day 52: September 2, 2018
+
+**Today's Progress**:
+1. React (65mins)
+2. ES6 (10mins)
+
+**Thoughts** 
+Today, I worked on setting state in React. I also used props.
+In ES6 for Everyone, I created HTML using Template Literals.
+In the example below, I have basic information about a song in the variable `song` and I display that information using the information in `songMarkup`. I set up a ternary operator to display the text for a featured artist when that data is available. Lastly, I apply that content to the body.
+```javascript
+const song = {
+  name: 'Dying to Live',
+  artist: 'Tupac',
+  featuring: 'Biggie Smalls'
+}
+
+const songMarkup = `
+  <div class="song">
+    <p>
+      ${song.name} - ${song.artist}
+      ${song.featuring ? `(Featuring ${song.featuring})` : ""}
+    </p>
+  </div>
+`;
+
+document.body.innerHTML = songMarkup;
+```
+
+**Today's Links:**
+1. [ES6 For Everyone!](https://es6.io)
+2. [React for Beginners](https://reactforbeginners.com/)
