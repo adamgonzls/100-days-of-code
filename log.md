@@ -1137,3 +1137,14 @@ document.body.innerHTML = songMarkup;
 **Today's Links:**
 1. [ES6 For Everyone!](https://es6.io)
 2. [React for Beginners](https://reactforbeginners.com/)
+
+# Day 53: September 5, 2018
+
+**Today's Progress**:
+1. Project (45mins)
+
+**Thoughts** 
+Today I started working on one of the Free Code Camp [projects](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form). I'll continue to work on my tutorials but I also wanted to get going on some actual projects. I'll continue to knock these out as I learn via the React and ES6 courses.
+
+**Today's Links:**
+1. [FCC-Survey](https://github.com/adamgonzls/fcc-survey)
