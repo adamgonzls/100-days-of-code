@@ -1148,3 +1148,14 @@ Today I started working on one of the Free Code Camp [projects](https://learn.fr
 
 **Today's Links:**
 1. [FCC-Survey](https://github.com/adamgonzls/fcc-survey)
+
+# Day 54: September 12, 2018
+
+**Today's Progress**:
+1. Project (75mins)
+
+**Thoughts** 
+I continued to work on my survey project. I will most likely finish this project this week, then I can move onto another project. I updated the markup and styles for the inputs. I could keep this project very basic but I wanted to add something so this is something I'm still proud to show off. I also added sourcemaps to this project. Other than helping me track my SCSS, I think this will be useful as a boilerplate for future projects.
+
+**Today's Links:**
+1. [FCC-Survey](https://github.com/adamgonzls/fcc-survey)
