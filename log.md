@@ -1159,3 +1159,17 @@ I continued to work on my survey project. I will most likely finish this project
 
 **Today's Links:**
 1. [FCC-Survey](https://github.com/adamgonzls/fcc-survey)
+
+# Day 55: September 13, 2018
+
+**Today's Progress**:
+1. ES6 (60mins)
+2. Project (25mins)
+
+**Thoughts** 
+Worked through some videos on template strings and tagged templates.
+I worked on completing the user stories on my survey project. I still feel like the page looks a little ugly for my taste but style is not the goal of this project. I will complete this project this weekend.
+
+**Today's Links:**
+1. [ES6 For Everyone!](https://es6.io)
+2. [FCC-Survey](https://github.com/adamgonzls/fcc-survey)
