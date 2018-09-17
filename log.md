@@ -1173,3 +1173,47 @@ I worked on completing the user stories on my survey project. I still feel like 
 **Today's Links:**
 1. [ES6 For Everyone!](https://es6.io)
 2. [FCC-Survey](https://github.com/adamgonzls/fcc-survey)
+
+# Day 56: September 16, 2018
+
+**Today's Progress**:
+1. ES6 (25mins)
+2. Project ()
+
+**Thoughts** 
+I learned about new string methods available in ES6. The methods are pretty self-explanatory. With additional functionality available with .startsWith() and .endsWith() where you can specify a certain amount of characters to skip, then start the match.
+```
+const course = 'RFB2';
+const flightNumber = '20-AC2018-jz';
+const accountNumber = '825242631RT0001';
+
+const make = 'BMW';
+const model = 'x5';
+const color = 'Royal Blue';
+
+.startsWith()
+console.log(course.startsWith('RFB')); // true
+console.log(flightNumber.startsWith('AC', 3)); // true
+
+.endsWith()
+console.log(flightNumber.endsWith('jz')); // true
+console.log(accountNumber.endsWith('RT', 11)); // true
+
+.includes()
+console.log(flightNumber.includes('AC')); // true
+
+.repeat()
+function leftPad(str, length = 20) {
+  return `➡ ${' '.repeat(length - str.length)}${str}`;
+}
+console.log(leftPad(make));
+console.log(leftPad(model));
+console.log(leftPad(color));
+```
+
+**Today's Links:**
+1. [ES6 For Everyone!](https://es6.io)
+2. [FCC-Survey](https://github.com/adamgonzls/fcc-survey)
+
+
+
