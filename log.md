@@ -1226,3 +1226,13 @@ I finished my FCC survey project. I finished the user stories by adding the last
 **Today's Links:**
 1. [FCC-Survey](https://adamgonzls.github.io/fcc-survey/)
 
+# Day 58: September 27, 2018
+
+**Today's Progress**:
+1. Project (90mins)
+
+**Thoughts** 
+I started working on my product landing page. I decided to clone my git repository from the survey project to save time. While creating the new project I realized I would need to update the favicon and its one of those tasks that I dread due to all the different platforms I have to support. I felt that this could be something that Gulp could handle and, sure enough, I found and used [Real Favicon Generator](https://realfavicongenerator.net/).
+
+**Today's Links:**
+1. [Product Landing Page](https://github.com/adamgonzls/fcc-product-landing)
