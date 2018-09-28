@@ -1215,5 +1215,14 @@ console.log(leftPad(color));
 1. [ES6 For Everyone!](https://es6.io)
 2. [FCC-Survey](https://github.com/adamgonzls/fcc-survey)
 
+# Day 57: September 25, 2018
 
+**Today's Progress**:
+1. Project (70mins)
+
+**Thoughts** 
+I finished my FCC survey project. I finished the user stories by adding the last requirement, the checkbox fields. Then, I worked on updating the color scheme and added media queries. Lastly, I added gulp-gh-pages as a dependency to the gulpfile.js. The page has been pushed live and the url is below.
+
+**Today's Links:**
+1. [FCC-Survey](https://adamgonzls.github.io/fcc-survey/)
 
