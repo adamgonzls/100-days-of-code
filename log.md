@@ -1236,3 +1236,12 @@ I started working on my product landing page. I decided to clone my git reposito
 
 **Today's Links:**
 1. [Product Landing Page](https://github.com/adamgonzls/fcc-product-landing)
+
+**Today's Progress**:
+1. Project (120mins)
+
+**Thoughts** 
+I decided on a [dribbble design](https://dribbble.com/shots/3813392-Solar-cloud/attachments/861537) for my product page. This one is complex and took some trickery and time for me to figure out how to get it working like the mockup. I'd like to stick to the design but I also don't want to end up spending 20 hours on this project. I made good progress today mostly working with SCSS.
+
+**Today's Links:**
+1. [Product Landing Page](https://github.com/adamgonzls/fcc-product-landing)
