@@ -1237,6 +1237,8 @@ I started working on my product landing page. I decided to clone my git reposito
 **Today's Links:**
 1. [Product Landing Page](https://github.com/adamgonzls/fcc-product-landing)
 
+# Day 59: September 29, 2018
+
 **Today's Progress**:
 1. Project (120mins)
 
@@ -1245,3 +1247,19 @@ I decided on a [dribbble design](https://dribbble.com/shots/3813392-Solar-cloud/
 
 **Today's Links:**
 1. [Product Landing Page](https://github.com/adamgonzls/fcc-product-landing)
+
+# Day 60: September 30, 2018
+
+**Today's Progress**:
+1. Project (85mins)
+2. Project (70mins)
+
+**Thoughts** 
+I decided to add a little interactivity to my product landing page and I added the ability for a visitor "to retrieve sales rep data". I also worked on making the copy look more like the mockup. I used the guide at [scotch.io](https://scotch.io/tutorials/how-to-use-the-javascript-fetch-api-to-get-data) to help me with the JavaScript. 
+Later, I worked further on the header presentation and re-arranged some of the content. I then re-factored the JS a little bit.
+
+**Today's Links:**
+1. [Product Landing Page](https://github.com/adamgonzls/fcc-product-landing)
+
+
+
