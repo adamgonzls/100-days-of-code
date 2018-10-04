@@ -1261,5 +1261,25 @@ Later, I worked further on the header presentation and re-arranged some of the c
 **Today's Links:**
 1. [Product Landing Page](https://github.com/adamgonzls/fcc-product-landing)
 
+# Day 61: October 2, 2018
 
+**Today's Progress**:
+1. Project (60mins)
+
+**Thoughts** 
+{add notes}
+
+**Today's Links:**
+1. [Product Landing Page](https://github.com/adamgonzls/fcc-product-landing)
+
+# Day 62: October 3, 2018
+
+**Today's Progress**:
+1. Project (95mins)
+
+**Thoughts** 
+I continued to work on this complex layout. I am having difficulty with the z-index placement of items in the hero. I think I will try making the `<img>` tag positioned absolute and set a height on `section.hero`.
+
+**Today's Links:**
+1. [Product Landing Page](https://github.com/adamgonzls/fcc-product-landing)
 
