@@ -1283,3 +1283,14 @@ I continued to work on this complex layout. I am having difficulty with the z-in
 **Today's Links:**
 1. [Product Landing Page](https://github.com/adamgonzls/fcc-product-landing)
 
+# Day 63: October 4, 2018
+
+**Today's Progress**:
+1. Project (70mins)
+
+**Thoughts** 
+Still working on my product page, mainly focusing on the CSS. I decided that due to the complexity of the layout I'm trying to re-create, CSS Grid would most likely be a better solution. I felt that once I had to absolute position the color-block behind the text block but behind the solar panel image, the potential solution started to feel hacky. Also, I thought that since I wanted to get re-acquanted with CSS Grid, this would provide a good opportunity. I spent most of my study time watching [cssgrid.io](https://cssgrid.io) course and experimenting with my project's layout.
+
+**Today's Links:**
+1. [Product Landing Page](https://github.com/adamgonzls/fcc-product-landing)
+2. [cssgrid.io](https://cssgrid.io)
