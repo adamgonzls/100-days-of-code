@@ -1305,3 +1305,14 @@ I was able to position the `.hero` element and children using css-grid. It took 
 
 **Today's Links:**
 1. [Product Landing Page](https://github.com/adamgonzls/fcc-product-landing)
+
+# Day 65: October 6, 2018
+
+**Today's Progress**:
+1. Project (135mins)
+
+**Thoughts** 
+I continued to get the layout to better reflect the final goal. I removed some unnecessary content and I made like sections more reusable. I also added more utility classes to make replicating style easier.
+
+**Today's Links:**
+1. [Product Landing Page](https://github.com/adamgonzls/fcc-product-landing)
