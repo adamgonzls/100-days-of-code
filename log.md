@@ -1294,3 +1294,14 @@ Still working on my product page, mainly focusing on the CSS. I decided that due
 **Today's Links:**
 1. [Product Landing Page](https://github.com/adamgonzls/fcc-product-landing)
 2. [cssgrid.io](https://cssgrid.io)
+
+# Day 64: October 5, 2018
+
+**Today's Progress**:
+1. Project (130mins)
+
+**Thoughts** 
+I was able to position the `.hero` element and children using css-grid. It took me a while to figure out the strategy - it turns out, removing the `<img>` element and instead using a `<div>` with a background-image property was the best way to get the layout I wanted. I also used flexbox to fine-tune elements within the text-block. Overall, I'm happy with my progress. I think I will finish the JS tomorrow and possibly skip styling this project to reflect the mockup completely. I've already accomplished 12 of 16 tasks so I'd like to get to work on the next project asap.
+
+**Today's Links:**
+1. [Product Landing Page](https://github.com/adamgonzls/fcc-product-landing)
