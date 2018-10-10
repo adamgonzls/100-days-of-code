@@ -1320,7 +1320,7 @@ I continued to get the layout to better reflect the final goal. I removed some u
 # Day 66: October 7, 2018
 
 **Today's Progress**:
-1. Project (mins)
+1. Project (120mins)
 
 **Thoughts** 
 I added the sticky (fixed) navigation to this page. Unfortunately, the design I chose and the requirements for this project differ. The tests require the nav to "always be on top", unfortunately, my .page has 80px padding on all sides... My nav is not at the top of the viewport. When I scroll down and the fixed navigation goes into effect, the test passes. I think I will leave this as-is as the design loses a lot if I move that nav to the very top of the viewport. Furthermore, by staying true to the design I picked, I have encountered issues keeping the fixed navigation the width of it's parent. For now the fixed navigation will be 100% wide when it becomes active. Not ideal, but a workable solution.
@@ -1328,3 +1328,14 @@ I added the sticky (fixed) navigation to this page. Unfortunately, the design I 
 **Today's Links:**
 1. [Product Landing Page](https://github.com/adamgonzls/fcc-product-landing)
 2. [A Sticky Navigation Bar on Scroll Using JavaScript](http://www.mattmorgante.com/technology/sticky-navigation-bar-javascript)
+
+# Day 66: October 7, 2018
+
+**Today's Progress**:
+1. Project (100mins)
+
+**Thoughts** 
+I added an event listener to the "Contact Us" button using the [MDN docs](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener) assistance. I decided to make the entire page responsive and spent most of the time writing all the media queries. I'm pretty close to completing this project. I estimate I have spent about 17 hours on this project so far.
+
+**Today's Links:**
+1. [Product Landing Page](https://github.com/adamgonzls/fcc-product-landing)
