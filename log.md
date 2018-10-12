@@ -1344,6 +1344,7 @@ I added an event listener to the "Contact Us" button using the [MDN docs](https:
 
 **Today's Progress**:
 1. Project (60mins)
+2. Project (30mins)
 
 **Thoughts** 
 I spent time taking the page live on github pages and worked on fine-tuning the CSS further.
