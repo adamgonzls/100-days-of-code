@@ -1339,3 +1339,17 @@ I added an event listener to the "Contact Us" button using the [MDN docs](https:
 
 **Today's Links:**
 1. [Product Landing Page](https://github.com/adamgonzls/fcc-product-landing)
+
+# Day 67: October 11, 2018
+
+**Today's Progress**:
+1. Project (60mins)
+
+**Thoughts** 
+I spent time taking the page live on github pages and worked on fine-tuning the CSS further.
+I started working on my technical document and decided to create a design system for [SolarCloud](https://github.com/adamgonzls/fcc-product-landing). I used the SolarCloud code as a starting point but I am going to use a different layout for this project.
+
+**Today's Links:**
+1. [Product Landing Page](https://github.com/adamgonzls/fcc-product-landing)
+2. [Get BEM](http://getbem.com/introduction/)
+3. [Awesome Design Systems]https://github.com/alexpate/awesome-design-systems
