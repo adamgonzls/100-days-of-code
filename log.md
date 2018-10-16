@@ -1354,3 +1354,15 @@ I started working on my technical document and decided to create a design system
 1. [Product Landing Page](https://github.com/adamgonzls/fcc-product-landing)
 2. [Get BEM](http://getbem.com/introduction/)
 3. [Awesome Design Systems]https://github.com/alexpate/awesome-design-systems
+
+# Day 68 October 15, 2018
+
+**Today's Progress**:
+1. Project (90mins)
+
+**Thoughts** 
+Worked further on SCSS and content on technical document. A few more hours and this will be complete.
+
+**Today's Links:**
+1. [Technical Document](https://github.com/adamgonzls/fcc-technical-document)
+2. https://analytics.google.com/analytics/academy/course/6/unit/1/lesson/1
