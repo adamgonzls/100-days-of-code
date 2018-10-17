@@ -1361,8 +1361,19 @@ I started working on my technical document and decided to create a design system
 1. Project (90mins)
 
 **Thoughts** 
-Worked further on SCSS and content on technical document. A few more hours and this will be complete.
+I started by fixing an SSL error on [adamgonzalesworks.com](https://www.adamgonzalesworks.com). Later, I worked further on SCSS and content on technical document (the design system for SolarCloud). A few more hours and this will be complete.
 
 **Today's Links:**
 1. [Technical Document](https://github.com/adamgonzls/fcc-technical-document)
-2. https://analytics.google.com/analytics/academy/course/6/unit/1/lesson/1
+2. [Google Analytics for Beginners]https://analytics.google.com/analytics/academy/course/6/unit/1/lesson/1
+
+# Day 69 October 16, 2018
+
+**Today's Progress**:
+1. Project (120mins)
+
+**Thoughts** 
+I reviewed some old projects such as my [daily UI checkout form](http://adamgonzls.github.io/credit-card-checkout/) and cleaned up the design a bit and modified some HTML elements where needed.
+
+**Today's Links:**
+1. [Daily UI Exercises](https://github.com/adamgonzls/daily-ui-exercises)
