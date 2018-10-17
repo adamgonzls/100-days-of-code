@@ -1377,3 +1377,14 @@ I reviewed some old projects such as my [daily UI checkout form](http://adamgonz
 
 **Today's Links:**
 1. [Daily UI Exercises](https://github.com/adamgonzls/daily-ui-exercises)
+
+# Day 70 October 17, 2018
+
+**Today's Progress**:
+1. Project (60mins)
+
+**Thoughts** 
+I created the scaffolding for my calculator project. I'm still trying to think of a way to display all the projects on one page. I'm thinking I'll create a page and then make links to the github repo, the github.io page, and possibly the inspriation page.
+
+**Today's Links:**
+1. [Daily UI Exercises](https://github.com/adamgonzls/daily-ui-exercises)
