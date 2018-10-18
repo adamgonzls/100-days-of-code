@@ -1382,9 +1382,12 @@ I reviewed some old projects such as my [daily UI checkout form](http://adamgonz
 
 **Today's Progress**:
 1. Project (60mins)
+2. Project (120mins)
 
 **Thoughts** 
 I created the scaffolding for my calculator project. I'm still trying to think of a way to display all the projects on one page. I'm thinking I'll create a page and then make links to the github repo, the github.io page, and possibly the inspriation page.
+This evening I got most of the layout for the calculator done. I sill need to do a little more via CSS grid to get the buttons placed correctly. I could stop after the button placement as I replicated the image that inspired this design, but I decided that some more JS experience is important. Hopefully I can finish this by this weekend.
 
 **Today's Links:**
 1. [Daily UI Exercises](https://github.com/adamgonzls/daily-ui-exercises)
+2. [Calculator](https://github.com/adamgonzls/calculator)
