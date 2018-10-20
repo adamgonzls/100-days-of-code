@@ -1391,3 +1391,15 @@ This evening I got most of the layout for the calculator done. I sill need to do
 **Today's Links:**
 1. [Daily UI Exercises](https://github.com/adamgonzls/daily-ui-exercises)
 2. [Calculator](https://github.com/adamgonzls/calculator)
+
+# Day 71 October 18, 2018
+
+**Today's Progress**:
+1. Project (60mins)
+2. Project (55mins)
+
+**Thoughts** 
+I finished positioning items using CSS grid. This turned out to be good practice on repositioning items on the DOM. I could have moved the buttons in the HTML but in one of the tutorials they mentioned how having the items in the logical order in the HTML was better... I think it had to do with accessibility and being semantic. I also starting writing my JS to listen to the click events and start adding the clicked buttons to the .calculator-display. I will also consider adding key events so if the user clicks keys to type on the calculator it will work that way too.
+
+**Today's Links:**
+1. [Calculator](https://github.com/adamgonzls/calculator)
