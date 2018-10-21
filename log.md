@@ -1403,3 +1403,19 @@ I finished positioning items using CSS grid. This turned out to be good practice
 
 **Today's Links:**
 1. [Calculator](https://github.com/adamgonzls/calculator)
+
+# Day 72 October 20, 2018
+
+**Today's Progress**:
+1. Project - Calculator (60mins)
+2. Project - Design System (70mins)
+
+**Thoughts** 
+I started adding functionality to the calculator using JavaScript. At this point, I'm not really happy with how I'm adding functionality to the buttons. I'm going to look into this project further and look for ways to add longer (or an unknown amount of numbers).
+I picked up the SolarCloud Design System project and worked a bit on fixing the palette tiles, and modified some of the classes, IDs and containers to address some of the requirements.
+
+**Today's Links:**
+1. [Calculator](https://github.com/adamgonzls/calculator)
+2. [Design System - SolarCloud]https://github.com/adamgonzls/fcc-technical-document
+
+
