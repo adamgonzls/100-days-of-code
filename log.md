@@ -1418,4 +1418,18 @@ I picked up the SolarCloud Design System project and worked a bit on fixing the 
 1. [Calculator](https://github.com/adamgonzls/calculator)
 2. [Design System - SolarCloud]https://github.com/adamgonzls/fcc-technical-document
 
+**Today's Links:**
+1. 
 
+# Day 73 October 22, 2018
+
+**Today's Progress**:
+1. Google Analytics (40mins)
+
+**Thoughts** 
+I started this morning by working on the Google Analytics training.
+I started thinking about my DailyUI projects and I think for the user profile I'll try a pet matching page or something like that. I'll try to incorporate some AJAX into it. Actually, as I type this, I'm considering doing a 'user profile' for a subway train or something that's a little different, although the pet-match profile could be just as fun.
+
+**Today's Links:**
+1. [Calculator](https://github.com/adamgonzls/calculator)
+2. [Design System - SolarCloud]https://github.com/adamgonzls/fcc-technical-document
