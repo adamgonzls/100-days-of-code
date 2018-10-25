@@ -1435,9 +1435,11 @@ I started thinking about my DailyUI projects and I think for the user profile I'
 
 **Today's Progress**:
 1. Project Design System (80mins)
+2. Project - Landing Page (90mins)
 
 **Thoughts** 
 I finished the necessary requirements for the Technical Document(design system) page. I added content mostly but I did challenge myself to styling my BEM-based buttons to use more than basic hovers. I found a very helpful article on [codemyui](https://codemyui.com/pure-css-gradient-button-hover-effect/) where I could make a button's gradient appear to change on hover. I still need to work on my calculator and on my product landing page.
+I worked on my project landing page and mostly focused on adding the icons to the .feature-cards. I chose to go with .svg's as I haven't done much with .svg's and I could use the experience. I not only added the svg's to the content, I experimented with editing the XML to manipulate the stroke, fill, and other attributes.
 
 **Today's Links:**
 1. [Design System - SolarCloud](https://adamgonzls.github.io/fcc-technical-document/)
