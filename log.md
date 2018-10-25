@@ -1353,7 +1353,7 @@ I started working on my technical document and decided to create a design system
 **Today's Links:**
 1. [Product Landing Page](https://github.com/adamgonzls/fcc-product-landing)
 2. [Get BEM](http://getbem.com/introduction/)
-3. [Awesome Design Systems]https://github.com/alexpate/awesome-design-systems
+3. [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)
 
 # Day 68 October 15, 2018
 
@@ -1365,7 +1365,7 @@ I started by fixing an SSL error on [adamgonzalesworks.com](https://www.adamgonz
 
 **Today's Links:**
 1. [Technical Document](https://github.com/adamgonzls/fcc-technical-document)
-2. [Google Analytics for Beginners]https://analytics.google.com/analytics/academy/course/6/unit/1/lesson/1
+2. [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/course/6/unit/1/lesson/1)
 
 # Day 69 October 16, 2018
 
@@ -1416,10 +1416,7 @@ I picked up the SolarCloud Design System project and worked a bit on fixing the 
 
 **Today's Links:**
 1. [Calculator](https://github.com/adamgonzls/calculator)
-2. [Design System - SolarCloud]https://github.com/adamgonzls/fcc-technical-document
-
-**Today's Links:**
-1. 
+2. [Design System - SolarCloud](https://github.com/adamgonzls/fcc-technical-document)
 
 # Day 73 October 22, 2018
 
@@ -1432,4 +1429,17 @@ I started thinking about my DailyUI projects and I think for the user profile I'
 
 **Today's Links:**
 1. [Calculator](https://github.com/adamgonzls/calculator)
-2. [Design System - SolarCloud]https://github.com/adamgonzls/fcc-technical-document
+2. [Design System - SolarCloud](https://github.com/adamgonzls/fcc-technical-document)
+
+# Day 74 October 24, 2018
+
+**Today's Progress**:
+1. Project Design System (80mins)
+
+**Thoughts** 
+I finished the necessary requirements for the Technical Document(design system) page. I added content mostly but I did challenge myself to styling my BEM-based buttons to use more than basic hovers. I found a very helpful article on [codemyui](https://codemyui.com/pure-css-gradient-button-hover-effect/) where I could make a button's gradient appear to change on hover. I still need to work on my calculator and on my product landing page.
+
+**Today's Links:**
+1. [Design System - SolarCloud](https://adamgonzls.github.io/fcc-technical-document/)
+2. [CSS Gradient Button Snippet](https://codemyui.com/pure-css-gradient-button-hover-effect/)
+3. [Landing Page - SolarCloud]https://adamgonzls.github.io/fcc-product-landing/
