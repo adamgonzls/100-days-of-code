@@ -1445,3 +1445,15 @@ I worked on my project landing page and mostly focused on adding the icons to th
 1. [Design System - SolarCloud](https://adamgonzls.github.io/fcc-technical-document/)
 2. [CSS Gradient Button Snippet](https://codemyui.com/pure-css-gradient-button-hover-effect/)
 3. [Landing Page - SolarCloud]https://adamgonzls.github.io/fcc-product-landing/
+
+# Day 75 October 25, 2018
+
+**Today's Progress**:
+1. Project - Landing Page (120mins)
+
+**Thoughts** 
+Worked on some responsive touches on the SolarCloud landing page. Mostly worked on CSS and organized components better on this project.
+
+**Today's Links:**
+1. [Landing Page - SolarCloud]https://adamgonzls.github.io/fcc-product-landing/
+2. [Design System - SolarCloud](https://adamgonzls.github.io/fcc-technical-document/)
