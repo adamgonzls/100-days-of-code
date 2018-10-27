@@ -1444,7 +1444,7 @@ I worked on my project landing page and mostly focused on adding the icons to th
 **Today's Links:**
 1. [Design System - SolarCloud](https://adamgonzls.github.io/fcc-technical-document/)
 2. [CSS Gradient Button Snippet](https://codemyui.com/pure-css-gradient-button-hover-effect/)
-3. [Landing Page - SolarCloud]https://adamgonzls.github.io/fcc-product-landing/
+3. [Landing Page - SolarCloud](https://adamgonzls.github.io/fcc-product-landing/)
 
 # Day 75 October 25, 2018
 
@@ -1455,5 +1455,18 @@ I worked on my project landing page and mostly focused on adding the icons to th
 Worked on some responsive touches on the SolarCloud landing page. Mostly worked on CSS and organized components better on this project.
 
 **Today's Links:**
-1. [Landing Page - SolarCloud]https://adamgonzls.github.io/fcc-product-landing/
+1. [Landing Page - SolarCloud](https://adamgonzls.github.io/fcc-product-landing/)
 2. [Design System - SolarCloud](https://adamgonzls.github.io/fcc-technical-document/)
+
+# Day 76 October 26, 2018
+
+**Today's Progress**:
+1. Git (90mins)
+
+**Thoughts** 
+I made plans for my next UI project. For this one I do want to have a JavaScript element where I get information from a JSON file. I was thinking about using this [Daily UI User Profile](https://dribbble.com/shots/5178884-Daily-UI-006-User-Profile) as my inspiration.
+I also spent some time creating a set of starter files for new projects.
+
+**Today's Links:**
+1. [User Profile]https://adamgonzls.github.io/fcc-product-landing/
+2. [MDN - Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
