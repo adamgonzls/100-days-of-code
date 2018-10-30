@@ -1468,7 +1468,7 @@ I made plans for my next UI project. For this one I do want to have a JavaScript
 I also spent some time creating a set of starter files for new projects.
 
 **Today's Links:**
-1. [User Profile]https://adamgonzls.github.io/fcc-product-landing/
+1. [Product Landing Page](https://adamgonzls.github.io/fcc-product-landing/)
 2. [MDN - Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 
 # Day 76 October 28, 2018
@@ -1481,7 +1481,7 @@ I also spent some time creating a set of starter files for new projects.
 I had to make some minor adjustments to the development environment since I am not using the vhosts file for these projects. In the user profile project I worked on the layout and got the layout dialed in for the most part. I also started working on the JavaScript and got the XHR set up and returning the data from my JSON file.
 
 **Today's Links:**
-1. [User Profile]https://adamgonzls.github.io/fcc-product-landing/
+1. [UI User Profile](https://github.com/adamgonzls/ui006_userprofile)
 2. [MDN - Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 
 # Day 77 October 29, 2018
@@ -1494,6 +1494,17 @@ I had to make some minor adjustments to the development environment since I am n
 I continued to build on what I accomplished yesterday and I started to use the data retrieved from the XHR request. I currently have user data being writted to the DOM on load. Next, I'll need to start writing the code to click through the different users. I also spent some time to finish loading the user content.
 
 **Today's Links:**
-1. [User Profile]https://adamgonzls.github.io/fcc-product-landing/
+1. [User Profile](https://github.com/adamgonzls/ui006_userprofile)
 2. [MDN - Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 
+# Day 78 October 30, 2018
+
+**Today's Progress**:
+1. CSS (45mins)
+
+**Thoughts** 
+I created a sawtooth border on my credit card checkout form. I still need to position it properly but creating the pattern was a good exercise.
+
+**Today's Links:**
+1. [Saw-tooth banners with CSS](https://medium.com/coding-design/saw-tooth-banners-with-css-95c31e91c196)
+2. [Zig Zag Borders in CSS](https://launchforth.io/blog/post/zig-zag-borders-in-css/1205/)
