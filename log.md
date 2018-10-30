@@ -1488,9 +1488,10 @@ I had to make some minor adjustments to the development environment since I am n
 
 **Today's Progress**:
 1. User Profile JavaScript (120mins)
+2. User Profile content (40mins)
 
 **Thoughts** 
-I continued to build on what I accomplished yesterday and I started to use the data retrieved from the XHR request. I currently have user data being writted to the DOM on load. Next, I'll need to start writing the code to click through the different users.
+I continued to build on what I accomplished yesterday and I started to use the data retrieved from the XHR request. I currently have user data being writted to the DOM on load. Next, I'll need to start writing the code to click through the different users. I also spent some time to finish loading the user content.
 
 **Today's Links:**
 1. [User Profile]https://adamgonzls.github.io/fcc-product-landing/
