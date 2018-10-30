@@ -1470,3 +1470,29 @@ I also spent some time creating a set of starter files for new projects.
 **Today's Links:**
 1. [User Profile]https://adamgonzls.github.io/fcc-product-landing/
 2. [MDN - Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+
+# Day 76 October 28, 2018
+
+**Today's Progress**:
+1. Google Analytics (35mins)
+2. User Profile (185mins)
+
+**Thoughts** 
+I had to make some minor adjustments to the development environment since I am not using the vhosts file for these projects. In the user profile project I worked on the layout and got the layout dialed in for the most part. I also started working on the JavaScript and got the XHR set up and returning the data from my JSON file.
+
+**Today's Links:**
+1. [User Profile]https://adamgonzls.github.io/fcc-product-landing/
+2. [MDN - Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+
+# Day 77 October 29, 2018
+
+**Today's Progress**:
+1. User Profile JavaScript (120mins)
+
+**Thoughts** 
+I continued to build on what I accomplished yesterday and I started to use the data retrieved from the XHR request. I currently have user data being writted to the DOM on load. Next, I'll need to start writing the code to click through the different users.
+
+**Today's Links:**
+1. [User Profile]https://adamgonzls.github.io/fcc-product-landing/
+2. [MDN - Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+
