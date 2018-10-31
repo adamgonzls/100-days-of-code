@@ -1501,10 +1501,13 @@ I continued to build on what I accomplished yesterday and I started to use the d
 
 **Today's Progress**:
 1. CSS (45mins)
+2. CSS (60mins)
 
 **Thoughts** 
 I created a sawtooth border on my credit card checkout form. I still need to position it properly but creating the pattern was a good exercise.
+I worked more on my sawtooth pattern this evening and got it to look acceptable.
 
 **Today's Links:**
 1. [Saw-tooth banners with CSS](https://medium.com/coding-design/saw-tooth-banners-with-css-95c31e91c196)
 2. [Zig Zag Borders in CSS](https://launchforth.io/blog/post/zig-zag-borders-in-css/1205/)
+3. [Credit Card Checkout](http://adamgonzls.github.io/credit-card-checkout/)
