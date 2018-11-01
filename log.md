@@ -1511,3 +1511,14 @@ I worked more on my sawtooth pattern this evening and got it to look acceptable.
 1. [Saw-tooth banners with CSS](https://medium.com/coding-design/saw-tooth-banners-with-css-95c31e91c196)
 2. [Zig Zag Borders in CSS](https://launchforth.io/blog/post/zig-zag-borders-in-css/1205/)
 3. [Credit Card Checkout](http://adamgonzls.github.io/credit-card-checkout/)
+
+# Day 79 October 31, 2018
+
+**Today's Progress**:
+1. CSS (25mins)
+
+**Thoughts** 
+Worked on further refining the credit card checkout form. I slightly moved some elements around and adjusted borders and padding for a more pleasing appearance.
+
+**Today's Links:**
+1. [Credit Card Checkout](http://adamgonzls.github.io/credit-card-checkout/)
