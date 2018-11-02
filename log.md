@@ -1516,9 +1516,13 @@ I worked more on my sawtooth pattern this evening and got it to look acceptable.
 
 **Today's Progress**:
 1. CSS (25mins)
+2. Google Analytics (25mins)
+3. JavaScript (35mins)
 
 **Thoughts** 
 Worked on further refining the credit card checkout form. I slightly moved some elements around and adjusted borders and padding for a more pleasing appearance.
+I studied Google Analytics some more and was taught about some of the different reports that Google provides. I will have to use some of this to help direct testing more and determine issues on platforms other than "Chrome for Mac".
+
 
 **Today's Links:**
 1. [Credit Card Checkout](http://adamgonzls.github.io/credit-card-checkout/)
