@@ -1523,6 +1523,18 @@ I worked more on my sawtooth pattern this evening and got it to look acceptable.
 Worked on further refining the credit card checkout form. I slightly moved some elements around and adjusted borders and padding for a more pleasing appearance.
 I studied Google Analytics some more and was taught about some of the different reports that Google provides. I will have to use some of this to help direct testing more and determine issues on platforms other than "Chrome for Mac".
 
+**Today's Links:**
+1. [Credit Card Checkout](http://adamgonzls.github.io/credit-card-checkout/)
+2. [User Profile](https://github.com/adamgonzls/ui006_userprofile)
+
+# Day 80 November 1, 2018
+
+**Today's Progress**:
+1. JavaScript (60mins)
+
+**Thoughts** 
+I worked on the JavaScript to display the current user some more. Next, I need to work on getting the ID or position of the current user and then advance to the next user in the array.
 
 **Today's Links:**
 1. [Credit Card Checkout](http://adamgonzls.github.io/credit-card-checkout/)
+2. [User Profile](https://github.com/adamgonzls/ui006_userprofile)
