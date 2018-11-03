@@ -1538,3 +1538,14 @@ I worked on the JavaScript to display the current user some more. Next, I need t
 **Today's Links:**
 1. [Credit Card Checkout](http://adamgonzls.github.io/credit-card-checkout/)
 2. [User Profile](https://github.com/adamgonzls/ui006_userprofile)
+
+# Day 81 November 2, 2018
+
+**Today's Progress**:
+1. JavaScript (45mins)
+
+**Thoughts** 
+Worked on the JavaScript on my user profile project some more. I created a few functions to show the team member and to advance the team member. I got the basic functionality of the forward arrow to work. I'm happy with today's progress. Hopefully I can finish this project this weekend.
+
+**Today's Links:**
+1. [User Profile](https://github.com/adamgonzls/ui006_userprofile)
