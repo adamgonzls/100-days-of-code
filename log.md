@@ -1554,9 +1554,11 @@ Worked on the JavaScript on my user profile project some more. I created a few f
 
 **Today's Progress**:
 1. JavaScript (60mins)
+2. JavsScript (60mins)
 
 **Thoughts** 
 I got the two directional arrows to work in my UI project. I'm particularly proud that I was able to use one function to increment and decrement the displayed user. I would like to reduce the amount of if statements within that function but for now, it works. The last major thing I need to do is the position indicator at the top of the display.
+I updated some of the content and deployed the site to gh pages. I found a minor problem with my XHR and fixed the URL to correct that.
 
 **Today's Links:**
 1. [User Profile](https://github.com/adamgonzls/ui006_userprofile)
