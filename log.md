@@ -1562,3 +1562,14 @@ I updated some of the content and deployed the site to gh pages. I found a minor
 
 **Today's Links:**
 1. [User Profile](https://github.com/adamgonzls/ui006_userprofile)
+
+# Day 83 November 6, 2018
+
+**Today's Progress**:
+1. JavaScript (100mins)
+
+**Thoughts** 
+In the user profile project I updated the CSS of the navigation to better reflect the mock-up. I spent most of my time working on the JavaScript that would update the navigation to reflect the currently shown individual. Unfortunately, I'm having trouble adding the color to the "dot" that would correspond to the shown individual. I've tried to reuse the index of the displayed member but I can't figure out how to apply that to the appropriate child of .team-member-navigation.
+
+**Today's Links:**
+1. [User Profile](https://github.com/adamgonzls/ui006_userprofile)
