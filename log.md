@@ -1584,3 +1584,5 @@ I finally was able to get the team member indicator to work. I felt I was close 
 
 **Today's Links:**
 1. [User Profile](https://github.com/adamgonzls/ui006_userprofile)
+2. [Remove a class name from multiple elements with pure JavaScript](https://clubmate.fi/remove-a-class-name-from-multiple-elements-with-pure-javascript/)
+3. [How to remove all class from child node using pure JavaScript](https://stackoverflow.com/questions/44387230/how-to-remove-all-class-from-child-node-using-pure-javascript)
