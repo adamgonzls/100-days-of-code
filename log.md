@@ -1573,3 +1573,14 @@ In the user profile project I updated the CSS of the navigation to better reflec
 
 **Today's Links:**
 1. [User Profile](https://github.com/adamgonzls/ui006_userprofile)
+
+# Day 84 November 12, 2018
+
+**Today's Progress**:
+1. JavaScript (40mins)
+
+**Thoughts** 
+I finally was able to get the team member indicator to work. I felt I was close last time I left off when I created the separate function solely for to update the indicator and I was able to print the index of the displayed team member. I was having such a hard time assigning the active class to the childnode using the index. I solved it with the following line `teamMemberNav.childNodes[displayMemberIndex].className = "platinum"`. I feel like I tried this many times and had no luck. Perhaps I had a typo in those hours I spent trying to resolve it before. Anyway, it's working now, and now I can move on to another project!
+
+**Today's Links:**
+1. [User Profile](https://github.com/adamgonzls/ui006_userprofile)
