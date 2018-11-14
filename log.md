@@ -1586,3 +1586,14 @@ I finally was able to get the team member indicator to work. I felt I was close 
 1. [User Profile](https://github.com/adamgonzls/ui006_userprofile)
 2. [Remove a class name from multiple elements with pure JavaScript](https://clubmate.fi/remove-a-class-name-from-multiple-elements-with-pure-javascript/)
 3. [How to remove all class from child node using pure JavaScript](https://stackoverflow.com/questions/44387230/how-to-remove-all-class-from-child-node-using-pure-javascript)
+
+# Day 85 November 13, 2018
+
+**Today's Progress**:
+1. JavaScript (40mins)
+
+**Thoughts** 
+Started working through the GatsbyJS tutorial. I understand that Gatsby is a static site generator that uses React. I'm pretty interested in this. I think I could use my logs from 90 days of code or my Daily UI projects for some subject matter for this site.
+
+**Today's Links:**
+1. [GatsbyJS](https://www.gatsbyjs.org/tutorial/part-zero/)
