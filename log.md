@@ -1587,7 +1587,7 @@ I finally was able to get the team member indicator to work. I felt I was close 
 2. [Remove a class name from multiple elements with pure JavaScript](https://clubmate.fi/remove-a-class-name-from-multiple-elements-with-pure-javascript/)
 3. [How to remove all class from child node using pure JavaScript](https://stackoverflow.com/questions/44387230/how-to-remove-all-class-from-child-node-using-pure-javascript)
 
-# Day 85 November 13, 2018
+## Day 85 November 13, 2018
 
 **Today's Progress**:
 1. JavaScript (40mins)
@@ -1597,3 +1597,14 @@ Started working through the GatsbyJS tutorial. I understand that Gatsby is a sta
 
 **Today's Links:**
 1. [GatsbyJS](https://www.gatsbyjs.org/tutorial/part-zero/)
+
+### Day 86 November 14, 2018
+
+**Today's Progress**:
+1. JavaScript (60mins)
+
+**Thoughts** 
+Continued to work on the GatsbyJS tutorial. I created a repo to make my work more accessible. In part one, I got more reps with React. I'll need to look through my previous logs about enabling auto-complete with Sublime Text for React and JSX.
+
+**Today's Links:**
+1. [GatsbyJS](https://www.gatsbyjs.org/tutorial/part-one/)
