@@ -1590,7 +1590,7 @@ I finally was able to get the team member indicator to work. I felt I was close 
 ## Day 85 November 13, 2018
 
 **Today's Progress**:
-1. JavaScript (40mins)
+1. GatsbyJS (40mins)
 
 **Thoughts** 
 Started working through the GatsbyJS tutorial. I understand that Gatsby is a static site generator that uses React. I'm pretty interested in this. I think I could use my logs from 90 days of code or my Daily UI projects for some subject matter for this site.
@@ -1601,7 +1601,8 @@ Started working through the GatsbyJS tutorial. I understand that Gatsby is a sta
 ### Day 86 November 14, 2018
 
 **Today's Progress**:
-1. JavaScript (60mins)
+1. GatsbyJS (60mins)
+2. GatsbyJS (60mins)
 
 **Thoughts** 
 Continued to work on the GatsbyJS tutorial. I created a repo to make my work more accessible. In part one, I got more reps with React. I'll need to look through my previous logs about enabling auto-complete with Sublime Text for React and JSX.
