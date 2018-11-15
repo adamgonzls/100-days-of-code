@@ -1605,6 +1605,8 @@ Started working through the GatsbyJS tutorial. I understand that Gatsby is a sta
 
 **Thoughts** 
 Continued to work on the GatsbyJS tutorial. I created a repo to make my work more accessible. In part one, I got more reps with React. I'll need to look through my previous logs about enabling auto-complete with Sublime Text for React and JSX.
+Later, I worked on Part Two of the Gatsby tutorial in which I worked on creating more modules and I started implementing CSS-in-JS. There was a little mention about organizing components - _if you use a component in multiple places on a site, it should be in its own module file in the <code>components</code> directory. But if it's used only in one file, create it inline._ I enjoyed this lesson and will start lesson 3 tomorrow.
 
 **Today's Links:**
 1. [GatsbyJS](https://www.gatsbyjs.org/tutorial/part-one/)
+2. [GatsbyJS Introduction to Using CSS in Gatsby](https://www.gatsbyjs.org/tutorial/part-two/)
