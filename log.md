@@ -1622,7 +1622,8 @@ Later, I worked on Part Two of the Gatsby tutorial in which I worked on creating
 1. GatsbyJS (30mins)
 
 **Thoughts** 
-I restarted the GatsbyJS tutorial today. I went back to tutorial zero and worked through tutorial one. It's good to be back. Through the last month and a little before that, I started working with a non-profit and built their website. The URL is [phxstartupweek.com](https://phxstartupweek.com). This is built on WordPress and I opted to install Gutenberg. It's been a good experience. This weekend I updated the site to https and there were a few learning experiences with that. 
+I restarted the GatsbyJS tutorial today. I went back to tutorial zero and worked through tutorial one. It's good to be back. Through the last month and a little before that, I started working with a non-profit and built their website. The URL is [phxstartupweek.com](https://phxstartupweek.com). This is built on WordPress and I opted to install Gutenberg. It's been a good experience. This weekend I updated the site to https and there were a few learning experiences with that.
+Later this evening, I finished part-one of the Gatsby tutorial. I'm thinking I might use Gatsby to build the TT styleguide.
 
 **Today's Links:**
 1. [GatsbyJS](https://www.gatsbyjs.org/tutorial/part-one/)
