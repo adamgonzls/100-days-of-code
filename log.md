@@ -1627,3 +1627,14 @@ Later this evening, I finished part-one of the Gatsby tutorial. I'm thinking I m
 
 **Today's Links:**
 1. [GatsbyJS](https://www.gatsbyjs.org/tutorial/part-one/)
+
+### Day 88 January 20, 2019
+
+**Today's Progress**:
+1. GatsbyJS (45mins)
+
+**Thoughts** 
+I finished part-three of the Gatsby tutorial. In this part of the tutorial,  I did some more styling and then I created a navigation component.
+
+**Today's Links:**
+1. [GatsbyJS](https://www.gatsbyjs.org/tutorial/part-three/)
