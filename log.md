@@ -1638,3 +1638,14 @@ I finished part-three of the Gatsby tutorial. In this part of the tutorial,  I d
 
 **Today's Links:**
 1. [GatsbyJS](https://www.gatsbyjs.org/tutorial/part-three/)
+
+### Day 89 January 21, 2019
+
+**Today's Progress**:
+1. GatsbyJS (45mins)
+
+**Thoughts** 
+I worked through part five of the Gatsby tutorial. In this, I created my own GraphQL query. I learned that only pages can make page queries and non-page components, such as Layout can use StaticQuery. I was able to figure out a few simple problems during the tutorial.
+
+**Today's Links:**
+1. [GatsbyJS](https://www.gatsbyjs.org/tutorial/part-four/)
