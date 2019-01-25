@@ -1649,3 +1649,14 @@ I worked through part five of the Gatsby tutorial. In this, I created my own Gra
 
 **Today's Links:**
 1. [GatsbyJS](https://www.gatsbyjs.org/tutorial/part-four/)
+
+### Day 90 January 24, 2019
+
+**Today's Progress**:
+1. WordPress/Gutenberg (170mins)
+
+**Thoughts** 
+I spent today's coding time on phxstartupweek.com. I've been working on this project since about Thanksgiving and I haven't been logging the time in my 100 days of code. Mostly learning ways to work with Gutenberg AND custom stylesheets. 
+
+**Today's Links:**
+1. [PHXStartupweek](https://phxstartupweek.com)
